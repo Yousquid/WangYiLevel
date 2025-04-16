@@ -3796,3 +3796,1003 @@ Sampler Limit: 32
 [2025.04.16-18.12.46:637][863]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D548A730_Auto0
 [2025.04.16-18.12.46:637][863]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_D548A730_Auto136C0ADD4BF9994F3F1C52817E0F2FAD.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D548A730_Auto0.uasset'
 [2025.04.16-18.12.46:638][863]LogFileHelpers: Auto-saving content packages took 0.225
+[2025.04.16-18.14.30:680][625]Cmd: TRANSACTION UNDO
+[2025.04.16-18.14.30:680][625]LogEditorTransaction: Undo Block Tool Change
+[2025.04.16-18.14.33:520][856]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_11B9DE9E (Required Memory Estimate: 1.178745 MB)...
+[2025.04.16-18.14.33:525][856]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_11B9DE9E.CubeGridToolOutput_11B9DE9E
+[2025.04.16-18.14.44:343][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.16-18.14.44:419][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.04.16-18.14.44:458][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.04.16-18.14.44:494][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.04.16-18.14.44:496][ 60]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/2H/MHJZQMCPIUFIJYUZNSQ5Y3
+[2025.04.16-18.14.44:497][ 60]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/MHJZQMCPIUFIJYUZNSQ5Y3C773D0F1417987529AA905A4388FACCE.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/2H/MHJZQMCPIUFIJYUZNSQ5Y3.uasset'
+[2025.04.16-18.14.44:499][ 60]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/GI/XBPBUENYPYOBTFO5TKKFKY
+[2025.04.16-18.14.44:500][ 60]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/XBPBUENYPYOBTFO5TKKFKY17F54C3C4C679B3908EF3FAB9612B28D.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/GI/XBPBUENYPYOBTFO5TKKFKY.uasset'
+[2025.04.16-18.14.44:518][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave took 175.117 ms (total: 2.98 sec)
+[2025.04.16-18.14.44:553][ 60]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.16-18.14.44:553][ 60]LogContentValidation: Enabled validators:
+[2025.04.16-18.14.44:553][ 60]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.16-18.14.44:553][ 60]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.16-18.14.44:553][ 60]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.16-18.14.44:553][ 60]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.16-18.14.44:553][ 60]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.16-18.14.44:553][ 60]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.16-18.14.44:553][ 60]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.04.16-18.15.24:415][704]Cmd: DELETE
+[2025.04.16-18.15.24:415][704]Cmd: ACTOR DELETE
+[2025.04.16-18.15.24:419][704]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.16-18.15.24:450][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.04.16-18.15.24:454][704]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2025.04.16-18.15.31:528][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.16-18.15.31:624][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.04.16-18.15.31:659][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.04.16-18.15.31:698][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.04.16-18.15.31:700][518]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/NS/PC6QFCHLLYEFM8OFYICZU3
+[2025.04.16-18.15.31:700][518]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/PC6QFCHLLYEFM8OFYICZU365752DFD4CFD181AA8142B80C6E6775B.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/NS/PC6QFCHLLYEFM8OFYICZU3.uasset'
+[2025.04.16-18.15.31:719][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 190.585 ms (total: 3.17 sec)
+[2025.04.16-18.15.31:751][518]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.16-18.15.31:751][518]LogContentValidation: Enabled validators:
+[2025.04.16-18.15.31:751][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.16-18.15.31:751][518]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.16-18.15.31:751][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.16-18.15.31:751][518]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.16-18.15.31:751][518]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.16-18.15.31:751][518]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.16-18.15.31:751][518]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.04.16-18.17.03:739][413]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8893.443359
+[2025.04.16-18.17.03:794][419]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.16-18.17.03:794][419]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8893.489258, Update Interval: 359.274872
+[2025.04.16-18.17.13:879][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.16-18.17.13:955][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.04.16-18.17.13:992][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.04.16-18.17.14:028][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.04.16-18.17.14:045][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 166.389 ms (total: 3.33 sec)
+[2025.04.16-18.17.14:735][171]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.16-18.17.14:740][171]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.16-18.17.14:740][171]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.04.16-18.17.14:745][171]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.777 ms (total: 7.337 ms)
+[2025.04.16-18.17.14:745][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.16-18.17.14:769][171]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.16-18.17.14:775][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006445s)
+[2025.04.16-18.17.14:775][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006492s)
+[2025.04.16-18.17.14:842][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.04.16-18.17.14:843][171]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.04.16-18.17.14:845][171]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.16-18.17.14:845][171]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.16-18.17.14:845][171]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.16-18.17.14:845][171]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.16-18.17.14:848][171]LogWorldPartition: Display: WorldPartition initialize took 2.480 ms (total: 228.921 ms)
+[2025.04.16-18.17.14:848][171]LogPlayLevel: PIE: World Init took: (0.004159s)
+[2025.04.16-18.17.14:849][171]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.04.16-18.17.14:849][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.16-18.17.14:849][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.16-18.17.14:849][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.16-18.17.14:849][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.16-18.17.14:849][171]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.16-18.17.14:849][171]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.16-18.17.14:849][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.16-18.17.14:849][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.16-18.17.14:849][171]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.16-18.17.14:849][171]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.16-18.17.14:849][171]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.16-18.17.14:851][171]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.16-18.17.14:890][171]LogAudioMixer: Display: Using Audio Hardware Device OMEN 27qs (NVIDIA High Definition Audio)
+[2025.04.16-18.17.14:891][171]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.16-18.17.14:891][171]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.16-18.17.14:891][171]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.16-18.17.14:891][171]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.04.16-18.17.14:891][171]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.04.16-18.17.14:893][171]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.04.16-18.17.14:893][171]LogInit: FAudioDevice initialized with ID 3.
+[2025.04.16-18.17.14:894][171]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.04.16-18.17.14:894][171]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2025.04.16-18.17.14:894][171]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.04.16-18.17.14:896][171]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.16-18.17.14:900][171]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.04.17-02.17.14
+[2025.04.16-18.17.14:901][171]LogWorld: Bringing up level for play took: 0.003654
+[2025.04.16-18.17.14:903][171]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.04.16-18.17.14:908][171]PIE: Server logged in
+[2025.04.16-18.17.14:909][171]PIE: Play in editor total start time 0.169 seconds.
+[2025.04.16-18.23.26:435][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.16-18.23.26:435][704]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.16-18.23.26:435][704]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.16-18.23.26:437][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.16-18.23.26:437][704]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.04.16-18.23.26:440][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.16-18.23.26:442][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.16-18.23.26:487][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.16-18.23.26:487][704]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.04.16-18.23.26:488][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.16-18.23.26:490][704]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.16-18.23.26:497][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.04.16-18.23.26:568][705]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.04.16-18.23.38:572][920]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_11B7CCAE (Required Memory Estimate: 0.357792 MB)...
+[2025.04.16-18.23.38:574][920]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_11B7CCAE.CubeGridToolOutput_11B7CCAE
+[2025.04.16-18.23.38:575][920]LogStaticMesh: Warning: CubeGridToolOutput_11B7CCAE has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-18.23.38:575][920]LogStaticMesh: Warning: CubeGridToolOutput_11B7CCAE has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-18.23.50:057][127]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9299.824219
+[2025.04.16-18.23.50:118][134]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.16-18.23.50:118][134]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9299.875000, Update Interval: 358.811615
+[2025.04.16-18.24.06:321][939]Cmd: EDIT COPY
+[2025.04.16-18.24.06:601][965]Cmd: EDIT PASTE
+[2025.04.16-18.24.50:326][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.16-18.24.50:377][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.04.16-18.24.50:391][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.04.16-18.24.50:402][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.04.16-18.24.50:404][813]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/07/W1EACB9J1YRQLU3CVWPER2
+[2025.04.16-18.24.50:406][813]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/W1EACB9J1YRQLU3CVWPER21A3954444A157288CD7FC8BA4052EAFB.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/07/W1EACB9J1YRQLU3CVWPER2.uasset'
+[2025.04.16-18.24.50:408][813]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/TO/DQF5GR5IMZV8SQPP790KXU
+[2025.04.16-18.24.50:409][813]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/DQF5GR5IMZV8SQPP790KXU6FFCFB66410A8DD3634B6B97043DEDDB.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/TO/DQF5GR5IMZV8SQPP790KXU.uasset'
+[2025.04.16-18.24.50:410][813]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/SD/NRSSAQ32GFIN8KRNUMC18Y
+[2025.04.16-18.24.50:410][813]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/NRSSAQ32GFIN8KRNUMC18Y7D85FD524CF643FC47FFE6A2BFF8A171.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/SD/NRSSAQ32GFIN8KRNUMC18Y.uasset'
+[2025.04.16-18.24.50:429][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.293 ms (total: 3.44 sec)
+[2025.04.16-18.24.50:460][813]LogContentValidation: Display: Starting to validate 3 assets
+[2025.04.16-18.24.50:460][813]LogContentValidation: Enabled validators:
+[2025.04.16-18.24.50:460][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.16-18.24.50:460][813]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.16-18.24.50:460][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.16-18.24.50:460][813]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.16-18.24.50:460][813]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.16-18.24.50:460][813]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.16-18.24.50:460][813]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.04.16-18.26.19:539][317]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_9AE3F411.Stairs_9AE3F411
+[2025.04.16-18.26.19:540][317]LogStaticMesh: Display: Building static mesh Stairs_9AE3F411 (Required Memory Estimate: 0.480612 MB)...
+[2025.04.16-18.26.19:542][317]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_9AE3F411.Stairs_9AE3F411 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_50EBF6B199AF9D5F02_1586299506
+[2025.04.16-18.26.19:542][317]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_9AE3F411.Stairs_9AE3F411
+[2025.04.16-18.26.39:268][347]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/Box_464328A6.Box_464328A6
+[2025.04.16-18.26.39:268][347]LogStaticMesh: Display: Building static mesh Box_464328A6 (Required Memory Estimate: 0.027864 MB)...
+[2025.04.16-18.26.39:269][347]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/Box_464328A6.Box_464328A6
+[2025.04.16-18.26.39:270][347]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/Box_464328A6.Box_464328A6 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_50EBF6B199AF9D5F02_1606028507
+[2025.04.16-18.27.05:039][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.16-18.27.05:107][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.04.16-18.27.05:130][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.04.16-18.27.05:162][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.04.16-18.27.05:164][ 88]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/NS/PC6QFCHLLYEFM8OFYICZU3
+[2025.04.16-18.27.05:165][ 88]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/PC6QFCHLLYEFM8OFYICZU31339A64C4CEC13BFD6119EBCE9E9D88F.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/NS/PC6QFCHLLYEFM8OFYICZU3.uasset'
+[2025.04.16-18.27.05:168][ 88]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/OT/TKYA1YSF7GBFMQTL34NZWQ
+[2025.04.16-18.27.05:168][ 88]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/TKYA1YSF7GBFMQTL34NZWQF2C5A56F40A31A0ADD11A9BA093E658C.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/OT/TKYA1YSF7GBFMQTL34NZWQ.uasset'
+[2025.04.16-18.27.05:170][ 88]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/61/SK5TR0AUNK5PAGCGHWHHOZ
+[2025.04.16-18.27.05:170][ 88]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/SK5TR0AUNK5PAGCGHWHHOZ1AB79BEE45926151E9B6739C3B9B93C1.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/61/SK5TR0AUNK5PAGCGHWHHOZ.uasset'
+[2025.04.16-18.27.05:188][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.640 ms (total: 3.58 sec)
+[2025.04.16-18.27.05:228][ 88]LogContentValidation: Display: Starting to validate 3 assets
+[2025.04.16-18.27.05:228][ 88]LogContentValidation: Enabled validators:
+[2025.04.16-18.27.05:228][ 88]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.16-18.27.05:228][ 88]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.16-18.27.05:228][ 88]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.16-18.27.05:228][ 88]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.16-18.27.05:228][ 88]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.16-18.27.05:228][ 88]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.16-18.27.05:228][ 88]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.04.16-18.27.40:582][598]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E.CubeGridToolOutput_ACB3F70E
+[2025.04.16-18.27.40:583][598]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_ACB3F70E (Required Memory Estimate: 0.249338 MB)...
+[2025.04.16-18.27.40:584][598]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E.CubeGridToolOutput_ACB3F70E
+[2025.04.16-18.27.40:584][598]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E.CubeGridToolOutput_ACB3F70E as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_50EBF6B199AF9D5F02_1667342508
+[2025.04.16-18.28.17:151][  9]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_ACB3F70E (Required Memory Estimate: 0.324467 MB)...
+[2025.04.16-18.28.17:153][  9]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E.CubeGridToolOutput_ACB3F70E
+[2025.04.16-18.28.46:473][882]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_ACB3F70E (Required Memory Estimate: 0.428875 MB)...
+[2025.04.16-18.28.46:475][882]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E.CubeGridToolOutput_ACB3F70E
+[2025.04.16-18.29.15:512][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.04.16-18.29.15:522][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CJ/1MCQ3Y51KHLN1NF1SS5PMM_Auto1
+[2025.04.16-18.29.15:522][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/1MCQ3Y51KHLN1NF1SS5PMM_Auto1AB8461674CB8AC0E8AA9B6BD5DD1B817.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CJ/1MCQ3Y51KHLN1NF1SS5PMM_Auto1.uasset'
+[2025.04.16-18.29.15:523][223]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.055
+[2025.04.16-18.29.15:523][223]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.055
+[2025.04.16-18.29.15:523][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_E90135B1] ([1] browsable assets)...
+[2025.04.16-18.29.15:523][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_E90135B1]
+[2025.04.16-18.29.15:526][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_E90135B1_Auto1
+[2025.04.16-18.29.15:526][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_E90135B1_Auto1FBC7A07454A92D4F96EECB32C9041FB.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_E90135B1_Auto1.uasset'
+[2025.04.16-18.29.15:527][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_E27D90CE] ([1] browsable assets)...
+[2025.04.16-18.29.15:527][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_E27D90CE]
+[2025.04.16-18.29.15:529][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_E27D90CE_Auto1
+[2025.04.16-18.29.15:529][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_E27D90CE_Auto0D8921E549617280E78A5C9BD3DF7868.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_E27D90CE_Auto1.uasset'
+[2025.04.16-18.29.15:532][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_200F5991] ([1] browsable assets)...
+[2025.04.16-18.29.15:532][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_200F5991]
+[2025.04.16-18.29.15:534][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_200F5991_Auto1
+[2025.04.16-18.29.15:534][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_200F5991_AutoCFD0A9F146EE49A8F0F29982479B451D.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_200F5991_Auto1.uasset'
+[2025.04.16-18.29.15:535][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_A5E0C58B] ([1] browsable assets)...
+[2025.04.16-18.29.15:535][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_A5E0C58B]
+[2025.04.16-18.29.15:538][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_A5E0C58B_Auto1
+[2025.04.16-18.29.15:538][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_A5E0C58B_Auto764977B743B66123690C2EBD38DC0E92.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_A5E0C58B_Auto1.uasset'
+[2025.04.16-18.29.15:539][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_11B7CCAE] ([1] browsable assets)...
+[2025.04.16-18.29.15:579][223]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_11B7CCAE.CubeGridToolOutput_11B7CCAE]
+[2025.04.16-18.29.15:579][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_11B7CCAE]
+[2025.04.16-18.29.15:583][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_11B7CCAE_Auto1
+[2025.04.16-18.29.15:583][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_11B7CCAE_Auto471B891E4C6D1BEE95C3C58F5752F3F7.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_11B7CCAE_Auto1.uasset'
+[2025.04.16-18.29.15:584][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_441B08ED] ([1] browsable assets)...
+[2025.04.16-18.29.15:584][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_441B08ED]
+[2025.04.16-18.29.15:586][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_441B08ED_Auto1
+[2025.04.16-18.29.15:587][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_441B08ED_AutoC0777FED488C806486426AB6A8109CD3.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_441B08ED_Auto1.uasset'
+[2025.04.16-18.29.15:588][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/Cone_B497EF32] ([1] browsable assets)...
+[2025.04.16-18.29.15:588][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/Cone_B497EF32]
+[2025.04.16-18.29.15:591][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Cone_B497EF32_Auto1
+[2025.04.16-18.29.15:592][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Cone_B497EF32_Auto11D7541D641A1BCE1233BACBCC5EDC860.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Cone_B497EF32_Auto1.uasset'
+[2025.04.16-18.29.15:593][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_11B9DE9E] ([1] browsable assets)...
+[2025.04.16-18.29.15:599][223]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_11B9DE9E.CubeGridToolOutput_11B9DE9E]
+[2025.04.16-18.29.15:599][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_11B9DE9E]
+[2025.04.16-18.29.15:602][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_11B9DE9E_Auto1
+[2025.04.16-18.29.15:602][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_11B9DE9E_AutoCEE63F914FC6E69A35C469BBB55B6CDB.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_11B9DE9E_Auto1.uasset'
+[2025.04.16-18.29.15:603][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_0D936AA7] ([1] browsable assets)...
+[2025.04.16-18.29.15:603][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_0D936AA7]
+[2025.04.16-18.29.15:605][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_0D936AA7_Auto1
+[2025.04.16-18.29.15:605][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Stairs_0D936AA7_Auto1654BC1C0441B09AD917C2BBE5C814EEE.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_0D936AA7_Auto1.uasset'
+[2025.04.16-18.29.15:606][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_FC4A480E] ([1] browsable assets)...
+[2025.04.16-18.29.15:606][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_FC4A480E]
+[2025.04.16-18.29.15:608][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_FC4A480E_Auto1
+[2025.04.16-18.29.15:608][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_FC4A480E_AutoD98520FC459872AA0F4C5E92382EFCD8.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_FC4A480E_Auto1.uasset'
+[2025.04.16-18.29.15:609][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_82B934D6] ([1] browsable assets)...
+[2025.04.16-18.29.15:609][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_82B934D6]
+[2025.04.16-18.29.15:612][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_82B934D6_Auto1
+[2025.04.16-18.29.15:612][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Stairs_82B934D6_Auto1F24F07F64925F607381A2BB2FF4377B0.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_82B934D6_Auto1.uasset'
+[2025.04.16-18.29.15:613][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_85171F27] ([1] browsable assets)...
+[2025.04.16-18.29.15:613][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_85171F27]
+[2025.04.16-18.29.15:615][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_85171F27_Auto1
+[2025.04.16-18.29.15:615][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_85171F27_Auto9911108941686ED5FF16449C37CEE0DF.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_85171F27_Auto1.uasset'
+[2025.04.16-18.29.15:616][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_23E9D5F3] ([1] browsable assets)...
+[2025.04.16-18.29.15:616][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_23E9D5F3]
+[2025.04.16-18.29.15:618][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_23E9D5F3_Auto1
+[2025.04.16-18.29.15:618][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_23E9D5F3_Auto3B4A0C9345AF0112AC939FB1B198253E.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_23E9D5F3_Auto1.uasset'
+[2025.04.16-18.29.15:618][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_DCBF6D4E] ([1] browsable assets)...
+[2025.04.16-18.29.15:618][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_DCBF6D4E]
+[2025.04.16-18.29.15:620][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_DCBF6D4E_Auto1
+[2025.04.16-18.29.15:620][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_DCBF6D4E_Auto9EF8275E469E76A697AB6C9BEAE54FE1.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_DCBF6D4E_Auto1.uasset'
+[2025.04.16-18.29.15:621][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_29F7D8C3] ([1] browsable assets)...
+[2025.04.16-18.29.15:621][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_29F7D8C3]
+[2025.04.16-18.29.15:623][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_29F7D8C3_Auto1
+[2025.04.16-18.29.15:623][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_29F7D8C3_Auto8577C16B47D2D1C674FEFC9674A2A35C.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_29F7D8C3_Auto1.uasset'
+[2025.04.16-18.29.15:624][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_434DFAFF] ([1] browsable assets)...
+[2025.04.16-18.29.15:624][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_434DFAFF]
+[2025.04.16-18.29.15:625][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_434DFAFF_Auto1
+[2025.04.16-18.29.15:625][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_434DFAFF_Auto6F306FED44326449E3D3E4B3C886C652.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_434DFAFF_Auto1.uasset'
+[2025.04.16-18.29.15:626][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_1E912054] ([1] browsable assets)...
+[2025.04.16-18.29.15:626][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_1E912054]
+[2025.04.16-18.29.15:629][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_1E912054_Auto1
+[2025.04.16-18.29.15:629][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_1E912054_Auto5E8883E6473F8E5F5717B68E83B2B09A.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_1E912054_Auto1.uasset'
+[2025.04.16-18.29.15:629][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_64F3E85A] ([1] browsable assets)...
+[2025.04.16-18.29.15:629][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_64F3E85A]
+[2025.04.16-18.29.15:632][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_64F3E85A_Auto1
+[2025.04.16-18.29.15:632][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_64F3E85A_Auto4A51A6C84ACA8792F305F5ADCEA7D3EF.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_64F3E85A_Auto1.uasset'
+[2025.04.16-18.29.15:633][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_BB04B3E1] ([1] browsable assets)...
+[2025.04.16-18.29.15:633][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_BB04B3E1]
+[2025.04.16-18.29.15:636][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_BB04B3E1_Auto1
+[2025.04.16-18.29.15:636][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_BB04B3E1_AutoE6D28EA74EE9E29A292200833F97B9EA.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_BB04B3E1_Auto1.uasset'
+[2025.04.16-18.29.15:637][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_2F110D6A] ([1] browsable assets)...
+[2025.04.16-18.29.15:637][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_2F110D6A]
+[2025.04.16-18.29.15:639][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_2F110D6A_Auto1
+[2025.04.16-18.29.15:639][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Cylinder_2F110D6A_Auto1640E684749A4474FBBED0BA0B7F05CBD.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_2F110D6A_Auto1.uasset'
+[2025.04.16-18.29.15:639][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_B06401C4] ([1] browsable assets)...
+[2025.04.16-18.29.15:639][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_B06401C4]
+[2025.04.16-18.29.15:642][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_B06401C4_Auto1
+[2025.04.16-18.29.15:642][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Cylinder_B06401C4_Auto1A200C82F472E4D347BE3A6963A5CF78A.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_B06401C4_Auto1.uasset'
+[2025.04.16-18.29.15:643][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D85882AD] ([1] browsable assets)...
+[2025.04.16-18.29.15:643][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D85882AD]
+[2025.04.16-18.29.15:645][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D85882AD_Auto1
+[2025.04.16-18.29.15:645][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_D85882AD_AutoA01D0A804EE67C5D638C429F437BD336.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D85882AD_Auto1.uasset'
+[2025.04.16-18.29.15:646][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_383B296A] ([1] browsable assets)...
+[2025.04.16-18.29.15:646][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_383B296A]
+[2025.04.16-18.29.15:647][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_383B296A_Auto1
+[2025.04.16-18.29.15:647][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_383B296A_Auto79034A7549E83A739D69C08CDA151B81.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_383B296A_Auto1.uasset'
+[2025.04.16-18.29.15:648][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0DAF30EE] ([1] browsable assets)...
+[2025.04.16-18.29.15:648][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0DAF30EE]
+[2025.04.16-18.29.15:649][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0DAF30EE_Auto1
+[2025.04.16-18.29.15:649][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_0DAF30EE_AutoCD41BF304C8A432DF92D0C91402CA8BD.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0DAF30EE_Auto1.uasset'
+[2025.04.16-18.29.15:652][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D7C34931] ([1] browsable assets)...
+[2025.04.16-18.29.15:652][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D7C34931]
+[2025.04.16-18.29.15:654][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D7C34931_Auto1
+[2025.04.16-18.29.15:654][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_D7C34931_AutoA3FC06384E351ABD8CE3F7BE47D4ABCD.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D7C34931_Auto1.uasset'
+[2025.04.16-18.29.15:655][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_BD914099] ([1] browsable assets)...
+[2025.04.16-18.29.15:655][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_BD914099]
+[2025.04.16-18.29.15:656][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_BD914099_Auto1
+[2025.04.16-18.29.15:656][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Cylinder_BD914099_Auto1A507868745E26EEF3B917E976327C032.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_BD914099_Auto1.uasset'
+[2025.04.16-18.29.15:657][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_EB246E29] ([1] browsable assets)...
+[2025.04.16-18.29.15:657][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_EB246E29]
+[2025.04.16-18.29.15:660][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_EB246E29_Auto1
+[2025.04.16-18.29.15:660][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_EB246E29_AutoADFBE7E348A97F3657B4B59036325E68.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_EB246E29_Auto1.uasset'
+[2025.04.16-18.29.15:661][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_345BBAFC] ([1] browsable assets)...
+[2025.04.16-18.29.15:661][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_345BBAFC]
+[2025.04.16-18.29.15:663][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_345BBAFC_Auto1
+[2025.04.16-18.29.15:663][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_345BBAFC_Auto4D003187489AACA6D48B679F8AB9D28D.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_345BBAFC_Auto1.uasset'
+[2025.04.16-18.29.15:663][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_82F5C294] ([1] browsable assets)...
+[2025.04.16-18.29.15:663][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_82F5C294]
+[2025.04.16-18.29.15:666][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_82F5C294_Auto1
+[2025.04.16-18.29.15:666][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_82F5C294_Auto3ABF48274CED244B964AADB2E5B34100.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_82F5C294_Auto1.uasset'
+[2025.04.16-18.29.15:668][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACECCE9E] ([1] browsable assets)...
+[2025.04.16-18.29.15:668][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACECCE9E]
+[2025.04.16-18.29.15:669][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACECCE9E_Auto1
+[2025.04.16-18.29.15:669][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_ACECCE9E_Auto77BCC2474B2CEC4BE4B8C2B56164250C.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACECCE9E_Auto1.uasset'
+[2025.04.16-18.29.15:672][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/Box_07D25EB9] ([1] browsable assets)...
+[2025.04.16-18.29.15:672][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/Box_07D25EB9]
+[2025.04.16-18.29.15:673][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Box_07D25EB9_Auto1
+[2025.04.16-18.29.15:673][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Box_07D25EB9_Auto18ECA9D9641229626EB61028EB0E4C7C0.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Box_07D25EB9_Auto1.uasset'
+[2025.04.16-18.29.15:674][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_5857AFEF] ([1] browsable assets)...
+[2025.04.16-18.29.15:674][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_5857AFEF]
+[2025.04.16-18.29.15:676][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_5857AFEF_Auto1
+[2025.04.16-18.29.15:676][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_5857AFEF_AutoAEB12C8E419999BB2E4466A5E90E5474.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_5857AFEF_Auto1.uasset'
+[2025.04.16-18.29.15:677][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_9C20DC56] ([1] browsable assets)...
+[2025.04.16-18.29.15:677][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_9C20DC56]
+[2025.04.16-18.29.15:679][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_9C20DC56_Auto1
+[2025.04.16-18.29.15:679][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_9C20DC56_Auto79B1499B4F941A3D99D65D8CABA60641.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_9C20DC56_Auto1.uasset'
+[2025.04.16-18.29.15:679][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_2E734EC6] ([1] browsable assets)...
+[2025.04.16-18.29.15:679][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_2E734EC6]
+[2025.04.16-18.29.15:682][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_2E734EC6_Auto1
+[2025.04.16-18.29.15:682][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_2E734EC6_Auto9B2D5EF8478C4E211779F8AAE356FC48.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_2E734EC6_Auto1.uasset'
+[2025.04.16-18.29.15:683][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_3DF6A8CC] ([1] browsable assets)...
+[2025.04.16-18.29.15:683][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_3DF6A8CC]
+[2025.04.16-18.29.15:685][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_3DF6A8CC_Auto1
+[2025.04.16-18.29.15:685][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_3DF6A8CC_AutoE2E1763A4ED796E44A5D2499D3F1418D.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_3DF6A8CC_Auto1.uasset'
+[2025.04.16-18.29.15:686][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0D99557C] ([1] browsable assets)...
+[2025.04.16-18.29.15:686][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0D99557C]
+[2025.04.16-18.29.15:688][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0D99557C_Auto1
+[2025.04.16-18.29.15:688][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_0D99557C_AutoFB9967224AC7CD02E1811088A9A3D00F.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0D99557C_Auto1.uasset'
+[2025.04.16-18.29.15:689][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0905BA31] ([1] browsable assets)...
+[2025.04.16-18.29.15:689][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0905BA31]
+[2025.04.16-18.29.15:691][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0905BA31_Auto1
+[2025.04.16-18.29.15:691][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_0905BA31_AutoA062D4754EB66F8A61C33B834C3FC352.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0905BA31_Auto1.uasset'
+[2025.04.16-18.29.15:691][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_9EC9EBFF] ([1] browsable assets)...
+[2025.04.16-18.29.15:692][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_9EC9EBFF]
+[2025.04.16-18.29.15:693][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_9EC9EBFF_Auto1
+[2025.04.16-18.29.15:693][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Stairs_9EC9EBFF_Auto1017A2A414B02D6FF1EA324864F19D26A.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_9EC9EBFF_Auto1.uasset'
+[2025.04.16-18.29.15:694][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_4816CAF7] ([1] browsable assets)...
+[2025.04.16-18.29.15:694][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_4816CAF7]
+[2025.04.16-18.29.15:696][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_4816CAF7_Auto1
+[2025.04.16-18.29.15:696][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_4816CAF7_Auto4B8C35124DE7DE2DC42D0D927033A00B.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_4816CAF7_Auto1.uasset'
+[2025.04.16-18.29.15:697][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_108C09E3] ([1] browsable assets)...
+[2025.04.16-18.29.15:697][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_108C09E3]
+[2025.04.16-18.29.15:698][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_108C09E3_Auto1
+[2025.04.16-18.29.15:698][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_108C09E3_Auto7E2AACB342FC52B76BAD69B63530B9FF.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_108C09E3_Auto1.uasset'
+[2025.04.16-18.29.15:699][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D548A730] ([1] browsable assets)...
+[2025.04.16-18.29.15:699][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D548A730]
+[2025.04.16-18.29.15:701][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D548A730_Auto1
+[2025.04.16-18.29.15:701][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_D548A730_AutoBD467536402ECA084B168CBF6C159888.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D548A730_Auto1.uasset'
+[2025.04.16-18.29.15:702][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_9AE3F411] ([1] browsable assets)...
+[2025.04.16-18.29.15:708][223]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_9AE3F411.Stairs_9AE3F411]
+[2025.04.16-18.29.15:708][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_9AE3F411]
+[2025.04.16-18.29.15:711][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_9AE3F411_Auto1
+[2025.04.16-18.29.15:711][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Stairs_9AE3F411_Auto16861842E4DC98046003376A4A484FEE6.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_9AE3F411_Auto1.uasset'
+[2025.04.16-18.29.15:711][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/Box_464328A6] ([1] browsable assets)...
+[2025.04.16-18.29.15:716][223]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/Box_464328A6.Box_464328A6]
+[2025.04.16-18.29.15:717][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/Box_464328A6]
+[2025.04.16-18.29.15:719][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Box_464328A6_Auto1
+[2025.04.16-18.29.15:719][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Box_464328A6_Auto197A969C149E3A32BC110608F81FD53E8.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Box_464328A6_Auto1.uasset'
+[2025.04.16-18.29.15:719][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E] ([1] browsable assets)...
+[2025.04.16-18.29.15:725][223]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E.CubeGridToolOutput_ACB3F70E]
+[2025.04.16-18.29.15:726][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E]
+[2025.04.16-18.29.15:728][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E_Auto1
+[2025.04.16-18.29.15:728][223]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_ACB3F70E_AutoCBA962DA41260D0C8A30C086159DF6CB.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E_Auto1.uasset'
+[2025.04.16-18.29.15:729][223]LogFileHelpers: Auto-saving content packages took 0.206
+[2025.04.16-18.30.44:762][929]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9714.377930
+[2025.04.16-18.30.45:762][932]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.16-18.30.45:762][932]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9715.042969, Update Interval: 301.246979
+[2025.04.16-18.36.44:128][  7]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10073.750000
+[2025.04.16-18.36.45:127][ 10]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.16-18.36.45:127][ 10]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10074.416016, Update Interval: 343.844116
+[2025.04.16-18.42.53:463][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.16-18.42.53:517][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.04.16-18.42.53:534][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.04.16-18.42.53:707][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.04.16-18.42.53:712][271]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CJ/1MCQ3Y51KHLN1NF1SS5PMM
+[2025.04.16-18.42.53:712][271]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/1MCQ3Y51KHLN1NF1SS5PMM6C572440494D6FA12E1CF4BB05181DE9.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CJ/1MCQ3Y51KHLN1NF1SS5PMM.uasset'
+[2025.04.16-18.42.53:724][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 260.017 ms (total: 3.84 sec)
+[2025.04.16-18.42.53:760][271]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.16-18.42.53:760][271]LogContentValidation: Enabled validators:
+[2025.04.16-18.42.53:760][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.16-18.42.53:760][271]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.16-18.42.53:760][271]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.16-18.42.53:760][271]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.16-18.42.53:760][271]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.16-18.42.53:760][271]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.16-18.42.53:761][271]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.04.16-18.43.02:062][250]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10451.679688
+[2025.04.16-18.43.02:112][256]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.16-18.43.02:112][256]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10451.722656, Update Interval: 349.018829
+[2025.04.16-18.49.28:967][676]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10838.853516
+[2025.04.16-18.49.29:009][681]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.16-18.49.29:009][681]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10838.887695, Update Interval: 314.628754
+[2025.04.16-18.50.34:748][570]LogDerivedDataCache: C:/Users/30791/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.16-18.53.21:427][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.16-18.53.21:500][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.04.16-18.53.21:537][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.04.16-18.53.21:598][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.04.16-18.53.21:614][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 187.344 ms (total: 4.03 sec)
+[2025.04.16-18.55.18:432][729]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11188.636719
+[2025.04.16-18.55.18:490][736]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.16-18.55.18:490][736]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11188.686523, Update Interval: 321.022980
+[2025.04.16-18.57.01:724][548]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_ACB3F70E (Required Memory Estimate: 0.503276 MB)...
+[2025.04.16-18.57.01:726][548]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E.CubeGridToolOutput_ACB3F70E
+[2025.04.16-18.57.01:727][548]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-18.57.01:727][548]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-18.57.29:432][191]Cmd: TRANSACTION UNDO
+[2025.04.16-18.57.29:432][191]LogEditorTransaction: Undo Block Tool Change
+[2025.04.16-18.57.29:642][197]Cmd: TRANSACTION UNDO
+[2025.04.16-18.57.29:642][197]LogEditorTransaction: Undo Block Tool Change
+[2025.04.16-18.57.29:821][202]Cmd: TRANSACTION UNDO
+[2025.04.16-18.57.29:821][202]LogEditorTransaction: Undo Block Tool Change
+[2025.04.16-18.57.30:307][230]Cmd: TRANSACTION UNDO
+[2025.04.16-18.57.30:307][230]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.04.16-18.57.31:293][302]Cmd: TRANSACTION UNDO
+[2025.04.16-18.57.31:294][302]LogEditorTransaction: Undo Block Tool Change
+[2025.04.16-18.58.40:544][303]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_ACB3F70E (Required Memory Estimate: 0.752995 MB)...
+[2025.04.16-18.58.40:547][303]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E.CubeGridToolOutput_ACB3F70E
+[2025.04.16-18.58.40:547][303]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-18.58.40:548][303]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-18.58.49:127][124]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_ACB3F70E (Required Memory Estimate: 0.759523 MB)...
+[2025.04.16-18.58.49:129][124]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E.CubeGridToolOutput_ACB3F70E
+[2025.04.16-18.58.49:130][124]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-18.58.49:130][124]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-18.58.55:727][734]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_ACB3F70E (Required Memory Estimate: 0.736632 MB)...
+[2025.04.16-18.58.55:730][734]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E.CubeGridToolOutput_ACB3F70E
+[2025.04.16-18.58.55:731][734]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-18.58.55:731][734]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-18.59.04:468][683]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_847CD397.CubeGridToolOutput_847CD397
+[2025.04.16-18.59.04:468][683]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_847CD397 (Required Memory Estimate: 0.027864 MB)...
+[2025.04.16-18.59.04:469][683]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_847CD397.CubeGridToolOutput_847CD397
+[2025.04.16-18.59.04:470][683]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_847CD397.CubeGridToolOutput_847CD397 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_50EBF6B199AF9F5F02_1403744861
+[2025.04.16-18.59.14:903][788]Cmd: EDIT COPY
+[2025.04.16-18.59.15:290][817]Cmd: EDIT PASTE
+[2025.04.16-18.59.44:053][877]Cmd: TRANSACTION UNDO
+[2025.04.16-18.59.44:053][877]LogEditorTransaction: Undo Set Scale
+[2025.04.16-19.00.28:385][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.16-19.00.28:441][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.04.16-19.00.28:459][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.04.16-19.00.28:468][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.04.16-19.00.28:470][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CJ/1MCQ3Y51KHLN1NF1SS5PMM
+[2025.04.16-19.00.28:471][895]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/1MCQ3Y51KHLN1NF1SS5PMM471A48DC45D9F5D81DF2908D4C54DE9B.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CJ/1MCQ3Y51KHLN1NF1SS5PMM.uasset'
+[2025.04.16-19.00.28:474][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/0N/XAEQMLTP46AGV0WFL2W7QQ
+[2025.04.16-19.00.28:474][895]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/XAEQMLTP46AGV0WFL2W7QQ562153D241465BDDA7FB7C8F57304DF5.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/0N/XAEQMLTP46AGV0WFL2W7QQ.uasset'
+[2025.04.16-19.00.28:476][895]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/M3/FK0MZBXOFQEE8CTC2W8583
+[2025.04.16-19.00.28:476][895]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/FK0MZBXOFQEE8CTC2W858399B792624F80C98D8EBF44B75C120DD0.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/M3/FK0MZBXOFQEE8CTC2W8583.uasset'
+[2025.04.16-19.00.28:494][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.074 ms (total: 4.14 sec)
+[2025.04.16-19.00.28:531][895]LogContentValidation: Display: Starting to validate 3 assets
+[2025.04.16-19.00.28:531][895]LogContentValidation: Enabled validators:
+[2025.04.16-19.00.28:531][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.16-19.00.28:531][895]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.16-19.00.28:531][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.16-19.00.28:531][895]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.16-19.00.28:531][895]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.16-19.00.28:531][895]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.16-19.00.28:531][895]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.04.16-19.01.31:341][987]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11561.333984
+[2025.04.16-19.01.31:392][992]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.16-19.01.31:392][992]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11561.375000, Update Interval: 323.148895
+[2025.04.16-19.02.01:249][627]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_ACB3F70E (Required Memory Estimate: 0.924874 MB)...
+[2025.04.16-19.02.01:253][627]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E.CubeGridToolOutput_ACB3F70E
+[2025.04.16-19.02.01:254][627]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.02.01:254][627]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.02.33:047][823]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_ACB3F70E (Required Memory Estimate: 0.960609 MB)...
+[2025.04.16-19.02.33:051][823]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E.CubeGridToolOutput_ACB3F70E
+[2025.04.16-19.02.33:052][823]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.02.33:052][823]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.02.54:336][814]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_8D9274B5.Stairs_8D9274B5
+[2025.04.16-19.02.54:337][814]LogStaticMesh: Display: Building static mesh Stairs_8D9274B5 (Required Memory Estimate: 0.480612 MB)...
+[2025.04.16-19.02.54:338][814]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_8D9274B5.Stairs_8D9274B5
+[2025.04.16-19.02.54:338][814]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_8D9274B5.Stairs_8D9274B5 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_50EBF6B199AF9F5F02_1633612863
+[2025.04.16-19.03.00:154][419]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.16-19.03.00:244][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.04.16-19.03.00:276][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.04.16-19.03.00:304][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.04.16-19.03.00:307][419]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CJ/1MCQ3Y51KHLN1NF1SS5PMM
+[2025.04.16-19.03.00:308][419]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/1MCQ3Y51KHLN1NF1SS5PMM1EF07B46474F59F11494F49D5C28F28E.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CJ/1MCQ3Y51KHLN1NF1SS5PMM.uasset'
+[2025.04.16-19.03.00:310][419]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HA/JJHV3OOV4EL0CC6QNM94F2
+[2025.04.16-19.03.00:310][419]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/JJHV3OOV4EL0CC6QNM94F2F7CB4A7B4E8AA9E72E9485BA9856DEDD.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HA/JJHV3OOV4EL0CC6QNM94F2.uasset'
+[2025.04.16-19.03.00:333][419]LogFileHelpers: InternalPromptForCheckoutAndSave took 179.095 ms (total: 4.32 sec)
+[2025.04.16-19.03.00:371][419]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.16-19.03.00:371][419]LogContentValidation: Enabled validators:
+[2025.04.16-19.03.00:371][419]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.16-19.03.00:371][419]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.16-19.03.00:371][419]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.16-19.03.00:371][419]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.16-19.03.00:371][419]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.16-19.03.00:371][419]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.16-19.03.00:371][419]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.04.16-19.03.21:961][234]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_ACB3F70E (Required Memory Estimate: 1.204247 MB)...
+[2025.04.16-19.03.21:966][234]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E.CubeGridToolOutput_ACB3F70E
+[2025.04.16-19.03.21:968][234]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.03.21:968][234]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.03.37:830][780]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_ACB3F70E (Required Memory Estimate: 1.217251 MB)...
+[2025.04.16-19.03.37:834][780]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E.CubeGridToolOutput_ACB3F70E
+[2025.04.16-19.03.37:835][780]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.03.37:835][780]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.04.13:155][389]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_ACB3F70E (Required Memory Estimate: 1.220395 MB)...
+[2025.04.16-19.04.13:160][389]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E.CubeGridToolOutput_ACB3F70E
+[2025.04.16-19.04.13:161][389]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.04.13:161][389]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.04.44:287][242]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_ACB3F70E (Required Memory Estimate: 1.294716 MB)...
+[2025.04.16-19.04.44:291][242]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E.CubeGridToolOutput_ACB3F70E
+[2025.04.16-19.04.44:293][242]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.04.44:293][242]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.05.18:936][357]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_ACB3F70E (Required Memory Estimate: 1.343562 MB)...
+[2025.04.16-19.05.18:941][357]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E.CubeGridToolOutput_ACB3F70E
+[2025.04.16-19.05.18:943][357]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.05.18:943][357]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.05.42:277][844]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_1CA66265.Cylinder_1CA66265
+[2025.04.16-19.05.42:278][844]LogStaticMesh: Display: Building static mesh Cylinder_1CA66265 (Required Memory Estimate: 0.109482 MB)...
+[2025.04.16-19.05.42:278][844]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_1CA66265.Cylinder_1CA66265
+[2025.04.16-19.05.42:279][844]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_1CA66265.Cylinder_1CA66265 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_50EBF6B199AF9F5F02_1801553864
+[2025.04.16-19.06.20:366][917]Cmd: EDIT COPY
+[2025.04.16-19.06.20:759][960]Cmd: EDIT PASTE
+[2025.04.16-19.06.26:372][505]Cmd: SELECT NONE
+[2025.04.16-19.07.15:698][540]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_0D99557C (Required Memory Estimate: 1.043796 MB)...
+[2025.04.16-19.07.15:703][540]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0D99557C.CubeGridToolOutput_0D99557C
+[2025.04.16-19.07.18:691][855]Cmd: TRANSACTION UNDO
+[2025.04.16-19.07.18:691][855]LogEditorTransaction: Undo Cube Grid Edit
+[2025.04.16-19.07.37:322][705]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_ACB3F70E (Required Memory Estimate: 1.366373 MB)...
+[2025.04.16-19.07.37:327][705]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E.CubeGridToolOutput_ACB3F70E
+[2025.04.16-19.07.37:328][705]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.07.37:328][705]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.07.43:503][380]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.16-19.07.43:556][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.04.16-19.07.43:596][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.04.16-19.07.43:640][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.04.16-19.07.43:642][380]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/GI/XBPBUENYPYOBTFO5TKKFKY
+[2025.04.16-19.07.43:643][380]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/XBPBUENYPYOBTFO5TKKFKY3973D35E4926F06B8F43EE9FAEE55877.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/GI/XBPBUENYPYOBTFO5TKKFKY.uasset'
+[2025.04.16-19.07.43:647][380]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CJ/1MCQ3Y51KHLN1NF1SS5PMM
+[2025.04.16-19.07.43:647][380]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/1MCQ3Y51KHLN1NF1SS5PMM3F46E74C455DDD84DECAD2867F8DC038.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CJ/1MCQ3Y51KHLN1NF1SS5PMM.uasset'
+[2025.04.16-19.07.43:650][380]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/IO/4LR74IKKFB5RC0M5G1PR8V
+[2025.04.16-19.07.43:650][380]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/4LR74IKKFB5RC0M5G1PR8VDA101A3F427122251CE2AF8DFA8DC494.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/IO/4LR74IKKFB5RC0M5G1PR8V.uasset'
+[2025.04.16-19.07.43:652][380]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/CR/QXZDPJI1UUKW0QE3ZC9XEU
+[2025.04.16-19.07.43:652][380]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/QXZDPJI1UUKW0QE3ZC9XEU758075F442BC6EABD74BEF9BEDEE0F56.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/CR/QXZDPJI1UUKW0QE3ZC9XEU.uasset'
+[2025.04.16-19.07.43:671][380]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.341 ms (total: 4.49 sec)
+[2025.04.16-19.07.43:703][380]LogContentValidation: Display: Starting to validate 4 assets
+[2025.04.16-19.07.43:705][380]LogContentValidation: Enabled validators:
+[2025.04.16-19.07.43:705][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.16-19.07.43:705][380]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.16-19.07.43:705][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.16-19.07.43:705][380]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.16-19.07.43:705][380]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.16-19.07.43:705][380]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.16-19.07.43:705][380]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.04.16-19.07.52:258][327]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11942.217773
+[2025.04.16-19.07.52:310][333]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.16-19.07.52:311][333]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11942.259766, Update Interval: 336.869415
+[2025.04.16-19.08.06:121][642]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_ACB3F70E (Required Memory Estimate: 1.417696 MB)...
+[2025.04.16-19.08.06:126][642]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E.CubeGridToolOutput_ACB3F70E
+[2025.04.16-19.08.06:127][642]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.08.06:127][642]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.08.11:300][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.16-19.08.11:375][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.04.16-19.08.11:413][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.04.16-19.08.11:448][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.04.16-19.08.11:451][219]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CJ/1MCQ3Y51KHLN1NF1SS5PMM
+[2025.04.16-19.08.11:452][219]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/1MCQ3Y51KHLN1NF1SS5PMM48923A484497923A375BC589A93C0C7A.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CJ/1MCQ3Y51KHLN1NF1SS5PMM.uasset'
+[2025.04.16-19.08.11:469][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 169.483 ms (total: 4.66 sec)
+[2025.04.16-19.08.11:505][219]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.16-19.08.11:505][219]LogContentValidation: Enabled validators:
+[2025.04.16-19.08.11:505][219]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.16-19.08.11:505][219]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.16-19.08.11:505][219]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.16-19.08.11:505][219]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.16-19.08.11:505][219]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.16-19.08.11:505][219]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.16-19.08.11:505][219]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.04.16-19.09.08:209][486]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_749773A6.CubeGridToolOutput_749773A6
+[2025.04.16-19.09.08:209][486]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_749773A6 (Required Memory Estimate: 0.093153 MB)...
+[2025.04.16-19.09.08:210][486]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_749773A6.CubeGridToolOutput_749773A6
+[2025.04.16-19.09.08:211][486]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_749773A6.CubeGridToolOutput_749773A6 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_50EBF6B199AF9F5F02_2007485866
+[2025.04.16-19.09.44:913][951]LogSlate: Window 'Accept changes instead?' being destroyed
+[2025.04.16-19.09.44:928][951]Message dialog closed, result: No, title: Accept changes instead?, text: The tool is being cancelled, which normally discards all changes. Would you like to apply the changes instead?
+
+ Selecting "No" or closing this window will discard the tool's current work.
+[2025.04.16-19.10.04:613][882]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_ACB3F70E (Required Memory Estimate: 1.4501 MB)...
+[2025.04.16-19.10.04:617][882]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E.CubeGridToolOutput_ACB3F70E
+[2025.04.16-19.10.04:620][882]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.10.04:620][882]LogStaticMesh: Warning: CubeGridToolOutput_ACB3F70E has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.10.20:454][479]Cmd: TRANSACTION UNDO
+[2025.04.16-19.10.20:454][479]LogEditorTransaction: Undo Block Tool Change
+[2025.04.16-19.10.22:690][571]LogSlate: Window 'Accept changes instead?' being destroyed
+[2025.04.16-19.10.22:702][571]Message dialog closed, result: No, title: Accept changes instead?, text: The tool is being cancelled, which normally discards all changes. Would you like to apply the changes instead?
+
+ Selecting "No" or closing this window will discard the tool's current work.
+[2025.04.16-19.10.39:590][ 10]Cmd: TRANSACTION UNDO
+[2025.04.16-19.10.39:590][ 10]LogEditorTransaction: Undo Block Tool Change
+[2025.04.16-19.10.39:803][ 16]Cmd: TRANSACTION UNDO
+[2025.04.16-19.10.39:804][ 16]LogEditorTransaction: Undo Block Tool Change
+[2025.04.16-19.10.39:952][ 20]Cmd: TRANSACTION UNDO
+[2025.04.16-19.10.39:952][ 20]LogEditorTransaction: Undo Block Tool Change
+[2025.04.16-19.11.22:316][520]Cmd: TRANSACTION UNDO
+[2025.04.16-19.11.22:316][520]LogEditorTransaction: Undo Block Tool Change
+[2025.04.16-19.11.22:573][527]Cmd: TRANSACTION UNDO
+[2025.04.16-19.11.22:573][527]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.04.16-19.11.23:090][551]Cmd: TRANSACTION UNDO
+[2025.04.16-19.11.23:090][551]LogEditorTransaction: Undo Block Tool Change
+[2025.04.16-19.11.23:760][599]Cmd: TRANSACTION UNDO
+[2025.04.16-19.11.23:760][599]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.04.16-19.11.24:088][624]Cmd: TRANSACTION UNDO
+[2025.04.16-19.11.24:089][624]LogEditorTransaction: Undo Block Tool Change
+[2025.04.16-19.11.24:484][655]Cmd: TRANSACTION UNDO
+[2025.04.16-19.11.24:484][655]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.04.16-19.11.25:068][703]Cmd: TRANSACTION UNDO
+[2025.04.16-19.11.25:068][703]LogEditorTransaction: Undo Block Tool Change
+[2025.04.16-19.12.36:807][566]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_749773A6 (Required Memory Estimate: 1.021639 MB)...
+[2025.04.16-19.12.36:811][566]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_749773A6.CubeGridToolOutput_749773A6
+[2025.04.16-19.12.36:812][566]LogStaticMesh: Warning: CubeGridToolOutput_749773A6 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.12.36:812][566]LogStaticMesh: Warning: CubeGridToolOutput_749773A6 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.14.11:936][685]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12321.870117
+[2025.04.16-19.14.11:986][690]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.16-19.14.11:986][690]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12321.911133, Update Interval: 351.877197
+[2025.04.16-19.14.37:024][976]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_749773A6 (Required Memory Estimate: 1.83101 MB)...
+[2025.04.16-19.14.37:031][976]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_749773A6.CubeGridToolOutput_749773A6
+[2025.04.16-19.14.37:032][976]LogStaticMesh: Warning: CubeGridToolOutput_749773A6 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.14.37:032][976]LogStaticMesh: Warning: CubeGridToolOutput_749773A6 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.15.06:806][  6]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_749773A6 (Required Memory Estimate: 1.909223 MB)...
+[2025.04.16-19.15.06:813][  6]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_749773A6.CubeGridToolOutput_749773A6
+[2025.04.16-19.15.06:815][  6]LogStaticMesh: Warning: CubeGridToolOutput_749773A6 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.15.06:815][  6]LogStaticMesh: Warning: CubeGridToolOutput_749773A6 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.15.19:426][420]Cmd: EDIT COPY
+[2025.04.16-19.15.19:767][457]Cmd: EDIT PASTE
+[2025.04.16-19.16.02:200][893]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_749773A6 (Required Memory Estimate: 1.882653 MB)...
+[2025.04.16-19.16.02:206][893]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_749773A6.CubeGridToolOutput_749773A6
+[2025.04.16-19.16.02:208][893]LogStaticMesh: Warning: CubeGridToolOutput_749773A6 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.16.02:208][893]LogStaticMesh: Warning: CubeGridToolOutput_749773A6 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.16.03:769][ 67]Cmd: TRANSACTION UNDO
+[2025.04.16-19.16.03:769][ 67]LogEditorTransaction: Undo Cube Grid Edit
+[2025.04.16-19.16.03:775][ 67]LogStaticMesh: Warning: CubeGridToolOutput_749773A6 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.16.03:776][ 67]LogStaticMesh: Warning: CubeGridToolOutput_749773A6 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.17.02:993][211]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0CA9C25D.CubeGridToolOutput_0CA9C25D
+[2025.04.16-19.17.02:994][211]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_0CA9C25D (Required Memory Estimate: 0.275961 MB)...
+[2025.04.16-19.17.02:996][211]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0CA9C25D.CubeGridToolOutput_0CA9C25D
+[2025.04.16-19.17.02:996][211]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0CA9C25D.CubeGridToolOutput_0CA9C25D as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_50EBF6B199AFA05F02_1408528044
+[2025.04.16-19.17.33:978][386]Cmd: TRANSACTION UNDO
+[2025.04.16-19.17.33:978][386]LogEditorTransaction: Undo Block Tool Change
+[2025.04.16-19.17.34:456][400]Cmd: TRANSACTION UNDO
+[2025.04.16-19.17.34:456][400]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.04.16-19.17.34:973][442]Cmd: TRANSACTION UNDO
+[2025.04.16-19.17.34:973][442]LogEditorTransaction: Undo Block Tool Change
+[2025.04.16-19.18.48:239][445]Cmd: TRANSACTION UNDO
+[2025.04.16-19.18.48:239][445]LogEditorTransaction: Undo Block Tool Change
+[2025.04.16-19.19.28:846][ 24]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_0CA9C25D (Required Memory Estimate: 0.534959 MB)...
+[2025.04.16-19.19.28:848][ 24]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0CA9C25D.CubeGridToolOutput_0CA9C25D
+[2025.04.16-19.19.28:849][ 24]LogStaticMesh: Warning: CubeGridToolOutput_0CA9C25D has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.19.28:849][ 24]LogStaticMesh: Warning: CubeGridToolOutput_0CA9C25D has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.20.01:398][877]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_4F244A6C.CubeGridToolOutput_4F244A6C
+[2025.04.16-19.20.01:398][877]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_4F244A6C (Required Memory Estimate: 0.151752 MB)...
+[2025.04.16-19.20.01:399][877]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_4F244A6C.CubeGridToolOutput_4F244A6C
+[2025.04.16-19.20.01:400][877]LogStaticMesh: Warning: CubeGridToolOutput_4F244A6C has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.20.01:400][877]LogStaticMesh: Warning: CubeGridToolOutput_4F244A6C has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.20.01:400][877]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_4F244A6C.CubeGridToolOutput_4F244A6C as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_50EBF6B199AFA05F02_1586933045
+[2025.04.16-19.21.00:078][330]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12729.861328
+[2025.04.16-19.21.00:125][335]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.16-19.21.00:125][335]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12729.900391, Update Interval: 352.796417
+[2025.04.16-19.21.16:460][130]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_A7B100B1.CubeGridToolOutput_A7B100B1
+[2025.04.16-19.21.16:461][130]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_A7B100B1 (Required Memory Estimate: 0.353666 MB)...
+[2025.04.16-19.21.16:462][130]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_A7B100B1.CubeGridToolOutput_A7B100B1
+[2025.04.16-19.21.16:462][130]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_A7B100B1.CubeGridToolOutput_A7B100B1 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_50EBF6B199AFA05F02_1661995046
+[2025.04.16-19.22.17:002][698]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_A7B100B1 (Required Memory Estimate: 0.633179 MB)...
+[2025.04.16-19.22.17:004][698]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_A7B100B1.CubeGridToolOutput_A7B100B1
+[2025.04.16-19.22.39:002][883]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_A7B100B1 (Required Memory Estimate: 0.672325 MB)...
+[2025.04.16-19.22.39:004][883]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_A7B100B1.CubeGridToolOutput_A7B100B1
+[2025.04.16-19.22.52:167][ 81]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_A7B100B1 (Required Memory Estimate: 0.762688 MB)...
+[2025.04.16-19.22.52:170][ 81]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_A7B100B1.CubeGridToolOutput_A7B100B1
+[2025.04.16-19.23.01:424][ 20]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_A7B100B1 (Required Memory Estimate: 0.775532 MB)...
+[2025.04.16-19.23.01:427][ 20]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_A7B100B1.CubeGridToolOutput_A7B100B1
+[2025.04.16-19.23.03:543][242]Cmd: TRANSACTION UNDO
+[2025.04.16-19.23.03:543][242]LogEditorTransaction: Undo Cube Grid Edit
+[2025.04.16-19.23.17:794][499]Cmd: TRANSACTION UNDO
+[2025.04.16-19.23.17:794][499]LogEditorTransaction: Undo Block Tool Change
+[2025.04.16-19.23.26:382][137]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_A7B100B1 (Required Memory Estimate: 0.834345 MB)...
+[2025.04.16-19.23.26:385][137]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_A7B100B1.CubeGridToolOutput_A7B100B1
+[2025.04.16-19.23.58:603][503]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_E732083B.Stairs_E732083B
+[2025.04.16-19.23.58:603][503]LogStaticMesh: Display: Building static mesh Stairs_E732083B (Required Memory Estimate: 0.480612 MB)...
+[2025.04.16-19.23.58:605][503]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_E732083B.Stairs_E732083B
+[2025.04.16-19.23.58:606][503]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_E732083B.Stairs_E732083B as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_50EBF6B199AFA05F02_1824138047
+[2025.04.16-19.25.46:394][957]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_A7B100B1 (Required Memory Estimate: 0.944614 MB)...
+[2025.04.16-19.25.46:397][957]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_A7B100B1.CubeGridToolOutput_A7B100B1
+[2025.04.16-19.25.57:568][ 89]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_1DE44838.CubeGridToolOutput_1DE44838
+[2025.04.16-19.25.57:569][ 89]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_1DE44838 (Required Memory Estimate: 0.040895 MB)...
+[2025.04.16-19.25.57:570][ 89]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_1DE44838.CubeGridToolOutput_1DE44838
+[2025.04.16-19.25.57:570][ 89]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_1DE44838.CubeGridToolOutput_1DE44838 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_50EBF6B199AFA05F02_1943103048
+[2025.04.16-19.26.16:705][221]Cmd: EDIT COPY
+[2025.04.16-19.26.17:050][250]Cmd: EDIT PASTE
+[2025.04.16-19.27.01:011][159]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.16-19.27.01:101][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.04.16-19.27.01:147][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.04.16-19.27.01:177][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.04.16-19.27.01:180][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CJ/1MCQ3Y51KHLN1NF1SS5PMM
+[2025.04.16-19.27.01:180][159]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/1MCQ3Y51KHLN1NF1SS5PMMD3053D684D4CB00F23903480FD331740.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CJ/1MCQ3Y51KHLN1NF1SS5PMM.uasset'
+[2025.04.16-19.27.01:183][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/XP/CCNKKMM6ZNZ6H7BY0Q8BXF
+[2025.04.16-19.27.01:183][159]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CCNKKMM6ZNZ6H7BY0Q8BXF2D879B3F48788FAD93AD7BA33A9B1523.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/XP/CCNKKMM6ZNZ6H7BY0Q8BXF.uasset'
+[2025.04.16-19.27.01:185][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/XB/R6XY8O9R8DJB5NB7JJI3FU
+[2025.04.16-19.27.01:185][159]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/R6XY8O9R8DJB5NB7JJI3FUD742603D40DCDBC055A8C3842E6B0BBA.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/XB/R6XY8O9R8DJB5NB7JJI3FU.uasset'
+[2025.04.16-19.27.01:187][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/CN/ESXA0MRMD6D9YGJA1V6SO7
+[2025.04.16-19.27.01:187][159]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/ESXA0MRMD6D9YGJA1V6SO721CC774C4E981413F72A8CB6B262CADA.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/CN/ESXA0MRMD6D9YGJA1V6SO7.uasset'
+[2025.04.16-19.27.01:189][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/B5/A9CMQU6HCLSBN1TZM3JV02
+[2025.04.16-19.27.01:189][159]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/A9CMQU6HCLSBN1TZM3JV0252A5D40E4EF8994FE5F239B68ADD2E53.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/B5/A9CMQU6HCLSBN1TZM3JV02.uasset'
+[2025.04.16-19.27.01:192][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/P1/ZVK7WI25PNBNTQCJY27CHJ
+[2025.04.16-19.27.01:192][159]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/ZVK7WI25PNBNTQCJY27CHJE7F18E2447AD722D474E709C65733169.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/P1/ZVK7WI25PNBNTQCJY27CHJ.uasset'
+[2025.04.16-19.27.01:194][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/0D/9RL2H75E1EVHPIC4QF1TA4
+[2025.04.16-19.27.01:194][159]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/9RL2H75E1EVHPIC4QF1TA48782D47E43CC58F0F75A8DB346A832D7.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/0D/9RL2H75E1EVHPIC4QF1TA4.uasset'
+[2025.04.16-19.27.01:197][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/KH/3N1GCQEGHL45X1GWTUTAAU
+[2025.04.16-19.27.01:197][159]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/3N1GCQEGHL45X1GWTUTAAUED81BFD84476884AB403289EF4DFDACC.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/KH/3N1GCQEGHL45X1GWTUTAAU.uasset'
+[2025.04.16-19.27.01:199][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/FJ/WCOQTAERBCTRVMC4TL07QL
+[2025.04.16-19.27.01:199][159]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/WCOQTAERBCTRVMC4TL07QL0FB8151245BB23D30DC8229F564D01CE.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/FJ/WCOQTAERBCTRVMC4TL07QL.uasset'
+[2025.04.16-19.27.01:216][159]LogFileHelpers: InternalPromptForCheckoutAndSave took 204.630 ms (total: 4.86 sec)
+[2025.04.16-19.27.01:249][159]LogContentValidation: Display: Starting to validate 9 assets
+[2025.04.16-19.27.01:249][159]LogContentValidation: Enabled validators:
+[2025.04.16-19.27.01:249][159]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.16-19.27.01:249][159]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.16-19.27.01:249][159]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.16-19.27.01:249][159]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.16-19.27.01:249][159]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.16-19.27.01:249][159]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.16-19.27.01:250][159]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.04.16-19.27.26:735][ 15]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D2DE89B7.CubeGridToolOutput_D2DE89B7
+[2025.04.16-19.27.26:735][ 15]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D2DE89B7 (Required Memory Estimate: 0.040895 MB)...
+[2025.04.16-19.27.26:736][ 15]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D2DE89B7.CubeGridToolOutput_D2DE89B7
+[2025.04.16-19.27.26:737][ 15]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D2DE89B7.CubeGridToolOutput_D2DE89B7 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_50EBF6B199AFA05F02_2032270050
+[2025.04.16-19.27.32:857][591]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13122.529297
+[2025.04.16-19.27.32:901][596]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.16-19.27.32:901][596]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13122.562500, Update Interval: 312.647491
+[2025.04.16-19.29.50:820][ 41]Cmd: TRANSACTION UNDO
+[2025.04.16-19.29.50:820][ 41]LogEditorTransaction: Undo Block Tool Change
+[2025.04.16-19.29.51:057][ 49]Cmd: TRANSACTION UNDO
+[2025.04.16-19.29.51:057][ 49]LogEditorTransaction: Undo Block Tool Change
+[2025.04.16-19.30.34:705][562]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_A7B100B1 (Required Memory Estimate: 1.680746 MB)...
+[2025.04.16-19.30.34:711][562]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_A7B100B1.CubeGridToolOutput_A7B100B1
+[2025.04.16-19.32.13:167][322]Cmd: TRANSACTION UNDO
+[2025.04.16-19.32.13:167][322]LogEditorTransaction: Undo Block Tool Change
+[2025.04.16-19.33.18:531][771]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13468.032227
+[2025.04.16-19.33.18:587][776]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.16-19.33.18:587][776]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13468.076172, Update Interval: 346.455261
+[2025.04.16-19.33.26:451][451]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_A7B100B1 (Required Memory Estimate: 2.131577 MB)...
+[2025.04.16-19.33.26:458][451]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_A7B100B1.CubeGridToolOutput_A7B100B1
+[2025.04.16-19.33.26:460][451]LogStaticMesh: Warning: CubeGridToolOutput_A7B100B1 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.33.26:460][451]LogStaticMesh: Warning: CubeGridToolOutput_A7B100B1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.16-19.34.19:616][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.04.16-19.34.19:625][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/P1/ZVK7WI25PNBNTQCJY27CHJ_Auto2
+[2025.04.16-19.34.19:625][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/ZVK7WI25PNBNTQCJY27CHJ_Auto2DE3F85C14D91E68FF00BD7B20146A170.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/P1/ZVK7WI25PNBNTQCJY27CHJ_Auto2.uasset'
+[2025.04.16-19.34.19:627][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/KH/3N1GCQEGHL45X1GWTUTAAU_Auto2
+[2025.04.16-19.34.19:627][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/3N1GCQEGHL45X1GWTUTAAU_Auto284392BEF46EA133DFA505696C349D411.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/KH/3N1GCQEGHL45X1GWTUTAAU_Auto2.uasset'
+[2025.04.16-19.34.19:629][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/FJ/WCOQTAERBCTRVMC4TL07QL_Auto2
+[2025.04.16-19.34.19:629][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/WCOQTAERBCTRVMC4TL07QL_Auto2AC0908284939BA569983ED9B808FF3CD.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/FJ/WCOQTAERBCTRVMC4TL07QL_Auto2.uasset'
+[2025.04.16-19.34.19:631][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/BO/6Z53PQ4A5CFFL5VFL69SM1_Auto2
+[2025.04.16-19.34.19:631][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/6Z53PQ4A5CFFL5VFL69SM1_Auto208061D004AF7341CD21986BEDB6DEBD6.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/BO/6Z53PQ4A5CFFL5VFL69SM1_Auto2.uasset'
+[2025.04.16-19.34.19:633][557]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.088
+[2025.04.16-19.34.19:633][557]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.088
+[2025.04.16-19.34.19:633][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_E90135B1] ([1] browsable assets)...
+[2025.04.16-19.34.19:633][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_E90135B1]
+[2025.04.16-19.34.19:635][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_E90135B1_Auto2
+[2025.04.16-19.34.19:636][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_E90135B1_Auto76CE44D54BFEADC5FF2A56A418CD205F.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_E90135B1_Auto2.uasset'
+[2025.04.16-19.34.19:636][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_E27D90CE] ([1] browsable assets)...
+[2025.04.16-19.34.19:636][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_E27D90CE]
+[2025.04.16-19.34.19:640][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_E27D90CE_Auto2
+[2025.04.16-19.34.19:640][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_E27D90CE_AutoF8A390EF446DA28087FF5D9993A9EC3A.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_E27D90CE_Auto2.uasset'
+[2025.04.16-19.34.19:641][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_200F5991] ([1] browsable assets)...
+[2025.04.16-19.34.19:641][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_200F5991]
+[2025.04.16-19.34.19:643][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_200F5991_Auto2
+[2025.04.16-19.34.19:643][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_200F5991_Auto350ADD1D4D31A4C12F3FD4958354FF4E.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_200F5991_Auto2.uasset'
+[2025.04.16-19.34.19:644][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_A5E0C58B] ([1] browsable assets)...
+[2025.04.16-19.34.19:644][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_A5E0C58B]
+[2025.04.16-19.34.19:646][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_A5E0C58B_Auto2
+[2025.04.16-19.34.19:647][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_A5E0C58B_Auto631C46F74B0824906045B2A5A6C4A449.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_A5E0C58B_Auto2.uasset'
+[2025.04.16-19.34.19:649][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_11B7CCAE] ([1] browsable assets)...
+[2025.04.16-19.34.19:649][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_11B7CCAE]
+[2025.04.16-19.34.19:651][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_11B7CCAE_Auto2
+[2025.04.16-19.34.19:651][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_11B7CCAE_AutoB9A1F37241CF08701157A9BD67EB7F8E.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_11B7CCAE_Auto2.uasset'
+[2025.04.16-19.34.19:652][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_441B08ED] ([1] browsable assets)...
+[2025.04.16-19.34.19:652][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_441B08ED]
+[2025.04.16-19.34.19:655][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_441B08ED_Auto2
+[2025.04.16-19.34.19:655][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_441B08ED_AutoA99A11E5439D5ABA9CC42B91E1617438.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_441B08ED_Auto2.uasset'
+[2025.04.16-19.34.19:656][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/Cone_B497EF32] ([1] browsable assets)...
+[2025.04.16-19.34.19:656][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/Cone_B497EF32]
+[2025.04.16-19.34.19:658][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Cone_B497EF32_Auto2
+[2025.04.16-19.34.19:659][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Cone_B497EF32_Auto2187F19C141B1B0EABFCFB3BEE2D035B4.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Cone_B497EF32_Auto2.uasset'
+[2025.04.16-19.34.19:660][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_11B9DE9E] ([1] browsable assets)...
+[2025.04.16-19.34.19:660][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_11B9DE9E]
+[2025.04.16-19.34.19:663][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_11B9DE9E_Auto2
+[2025.04.16-19.34.19:664][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_11B9DE9E_Auto19026192418003B85E30B1BD330DFA3E.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_11B9DE9E_Auto2.uasset'
+[2025.04.16-19.34.19:665][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_0D936AA7] ([1] browsable assets)...
+[2025.04.16-19.34.19:665][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_0D936AA7]
+[2025.04.16-19.34.19:667][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_0D936AA7_Auto2
+[2025.04.16-19.34.19:668][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Stairs_0D936AA7_Auto2E41B552F4A4C666E665C43BE9545B316.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_0D936AA7_Auto2.uasset'
+[2025.04.16-19.34.19:668][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_FC4A480E] ([1] browsable assets)...
+[2025.04.16-19.34.19:668][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_FC4A480E]
+[2025.04.16-19.34.19:670][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_FC4A480E_Auto2
+[2025.04.16-19.34.19:671][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_FC4A480E_AutoFFAC892647DC83B633ECF49701DF2B06.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_FC4A480E_Auto2.uasset'
+[2025.04.16-19.34.19:672][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_82B934D6] ([1] browsable assets)...
+[2025.04.16-19.34.19:672][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_82B934D6]
+[2025.04.16-19.34.19:674][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_82B934D6_Auto2
+[2025.04.16-19.34.19:675][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Stairs_82B934D6_Auto211DE3FC745568FC793FAD88106D7E639.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_82B934D6_Auto2.uasset'
+[2025.04.16-19.34.19:676][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_85171F27] ([1] browsable assets)...
+[2025.04.16-19.34.19:676][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_85171F27]
+[2025.04.16-19.34.19:679][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_85171F27_Auto2
+[2025.04.16-19.34.19:679][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_85171F27_AutoFAB820E84181FDBBBE4442878FBE8E8E.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_85171F27_Auto2.uasset'
+[2025.04.16-19.34.19:680][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_23E9D5F3] ([1] browsable assets)...
+[2025.04.16-19.34.19:680][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_23E9D5F3]
+[2025.04.16-19.34.19:682][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_23E9D5F3_Auto2
+[2025.04.16-19.34.19:682][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_23E9D5F3_Auto5014AD2D4E595E3E98C10F8266093022.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_23E9D5F3_Auto2.uasset'
+[2025.04.16-19.34.19:683][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_DCBF6D4E] ([1] browsable assets)...
+[2025.04.16-19.34.19:683][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_DCBF6D4E]
+[2025.04.16-19.34.19:685][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_DCBF6D4E_Auto2
+[2025.04.16-19.34.19:686][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_DCBF6D4E_Auto14B5EC004F7E864C0DBF67B495D669F3.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_DCBF6D4E_Auto2.uasset'
+[2025.04.16-19.34.19:687][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_29F7D8C3] ([1] browsable assets)...
+[2025.04.16-19.34.19:687][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_29F7D8C3]
+[2025.04.16-19.34.19:689][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_29F7D8C3_Auto2
+[2025.04.16-19.34.19:689][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_29F7D8C3_Auto7C839D664F3F1B74C2505E860951181B.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_29F7D8C3_Auto2.uasset'
+[2025.04.16-19.34.19:690][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_434DFAFF] ([1] browsable assets)...
+[2025.04.16-19.34.19:690][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_434DFAFF]
+[2025.04.16-19.34.19:693][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_434DFAFF_Auto2
+[2025.04.16-19.34.19:693][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_434DFAFF_Auto7E816C8646C71BB88651BBB39C85208F.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_434DFAFF_Auto2.uasset'
+[2025.04.16-19.34.19:694][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_1E912054] ([1] browsable assets)...
+[2025.04.16-19.34.19:694][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_1E912054]
+[2025.04.16-19.34.19:697][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_1E912054_Auto2
+[2025.04.16-19.34.19:697][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_1E912054_Auto6497C3B1403E610E844F56A8BE2D62C3.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_1E912054_Auto2.uasset'
+[2025.04.16-19.34.19:697][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_64F3E85A] ([1] browsable assets)...
+[2025.04.16-19.34.19:697][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_64F3E85A]
+[2025.04.16-19.34.19:700][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_64F3E85A_Auto2
+[2025.04.16-19.34.19:700][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_64F3E85A_Auto1F06D2634D1C7628D8B7D2AC1D43CF81.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_64F3E85A_Auto2.uasset'
+[2025.04.16-19.34.19:701][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_BB04B3E1] ([1] browsable assets)...
+[2025.04.16-19.34.19:701][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_BB04B3E1]
+[2025.04.16-19.34.19:705][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_BB04B3E1_Auto2
+[2025.04.16-19.34.19:705][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_BB04B3E1_Auto43CA54304CC616273BC686A932EB6C99.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_BB04B3E1_Auto2.uasset'
+[2025.04.16-19.34.19:706][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_2F110D6A] ([1] browsable assets)...
+[2025.04.16-19.34.19:706][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_2F110D6A]
+[2025.04.16-19.34.19:708][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_2F110D6A_Auto2
+[2025.04.16-19.34.19:708][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Cylinder_2F110D6A_Auto2F470D84D478961BAC928F2ACD89A8E33.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_2F110D6A_Auto2.uasset'
+[2025.04.16-19.34.19:709][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_B06401C4] ([1] browsable assets)...
+[2025.04.16-19.34.19:709][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_B06401C4]
+[2025.04.16-19.34.19:711][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_B06401C4_Auto2
+[2025.04.16-19.34.19:711][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Cylinder_B06401C4_Auto2971EB2F94EFFFA5E8C352591D09B2C39.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_B06401C4_Auto2.uasset'
+[2025.04.16-19.34.19:712][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D85882AD] ([1] browsable assets)...
+[2025.04.16-19.34.19:712][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D85882AD]
+[2025.04.16-19.34.19:714][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D85882AD_Auto2
+[2025.04.16-19.34.19:714][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_D85882AD_AutoDA1DE9A647FDC72624D73AB3E1895AFD.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D85882AD_Auto2.uasset'
+[2025.04.16-19.34.19:715][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_383B296A] ([1] browsable assets)...
+[2025.04.16-19.34.19:715][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_383B296A]
+[2025.04.16-19.34.19:716][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_383B296A_Auto2
+[2025.04.16-19.34.19:716][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_383B296A_Auto1640F43C42B6D5A67E5871914AF8D43C.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_383B296A_Auto2.uasset'
+[2025.04.16-19.34.19:718][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0DAF30EE] ([1] browsable assets)...
+[2025.04.16-19.34.19:718][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0DAF30EE]
+[2025.04.16-19.34.19:719][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0DAF30EE_Auto2
+[2025.04.16-19.34.19:719][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_0DAF30EE_AutoA98E48424D8E20C4DBCF668C093010D6.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0DAF30EE_Auto2.uasset'
+[2025.04.16-19.34.19:720][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D7C34931] ([1] browsable assets)...
+[2025.04.16-19.34.19:720][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D7C34931]
+[2025.04.16-19.34.19:722][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D7C34931_Auto2
+[2025.04.16-19.34.19:722][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_D7C34931_Auto22C9133D47972626C7F3C3B644D3E5E5.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D7C34931_Auto2.uasset'
+[2025.04.16-19.34.19:724][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_BD914099] ([1] browsable assets)...
+[2025.04.16-19.34.19:724][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_BD914099]
+[2025.04.16-19.34.19:725][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_BD914099_Auto2
+[2025.04.16-19.34.19:725][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Cylinder_BD914099_Auto2BA9464DB4BF43F2B8F0DD297FC7C905C.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_BD914099_Auto2.uasset'
+[2025.04.16-19.34.19:726][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_EB246E29] ([1] browsable assets)...
+[2025.04.16-19.34.19:726][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_EB246E29]
+[2025.04.16-19.34.19:729][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_EB246E29_Auto2
+[2025.04.16-19.34.19:729][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_EB246E29_AutoBC213C1F46E5257499272E8C1486B3ED.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_EB246E29_Auto2.uasset'
+[2025.04.16-19.34.19:730][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_345BBAFC] ([1] browsable assets)...
+[2025.04.16-19.34.19:730][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_345BBAFC]
+[2025.04.16-19.34.19:732][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_345BBAFC_Auto2
+[2025.04.16-19.34.19:732][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_345BBAFC_AutoD96666DE4BA3DB094C9563973E07B459.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_345BBAFC_Auto2.uasset'
+[2025.04.16-19.34.19:734][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_82F5C294] ([1] browsable assets)...
+[2025.04.16-19.34.19:734][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_82F5C294]
+[2025.04.16-19.34.19:736][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_82F5C294_Auto2
+[2025.04.16-19.34.19:736][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_82F5C294_Auto2556882E4653A66DD8BE67BB6DCC9BBB.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_82F5C294_Auto2.uasset'
+[2025.04.16-19.34.19:737][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACECCE9E] ([1] browsable assets)...
+[2025.04.16-19.34.19:737][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACECCE9E]
+[2025.04.16-19.34.19:739][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACECCE9E_Auto2
+[2025.04.16-19.34.19:739][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_ACECCE9E_Auto5F73FB944753C0627F84E7AED3D4E9DA.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACECCE9E_Auto2.uasset'
+[2025.04.16-19.34.19:740][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/Box_07D25EB9] ([1] browsable assets)...
+[2025.04.16-19.34.19:740][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/Box_07D25EB9]
+[2025.04.16-19.34.19:741][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Box_07D25EB9_Auto2
+[2025.04.16-19.34.19:741][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Box_07D25EB9_Auto232521AC1477E6B53D09492A1AC365668.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Box_07D25EB9_Auto2.uasset'
+[2025.04.16-19.34.19:743][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_5857AFEF] ([1] browsable assets)...
+[2025.04.16-19.34.19:743][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_5857AFEF]
+[2025.04.16-19.34.19:746][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_5857AFEF_Auto2
+[2025.04.16-19.34.19:746][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_5857AFEF_Auto17F4C23F4E25D65E43320CBC9E7106B5.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_5857AFEF_Auto2.uasset'
+[2025.04.16-19.34.19:747][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_9C20DC56] ([1] browsable assets)...
+[2025.04.16-19.34.19:747][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_9C20DC56]
+[2025.04.16-19.34.19:749][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_9C20DC56_Auto2
+[2025.04.16-19.34.19:749][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_9C20DC56_Auto35AF668645106DE36AD581BB5FA679F0.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_9C20DC56_Auto2.uasset'
+[2025.04.16-19.34.19:749][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_2E734EC6] ([1] browsable assets)...
+[2025.04.16-19.34.19:749][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_2E734EC6]
+[2025.04.16-19.34.19:751][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_2E734EC6_Auto2
+[2025.04.16-19.34.19:751][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_2E734EC6_Auto398E195B4F861C48AD0EBEA39777BE2A.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_2E734EC6_Auto2.uasset'
+[2025.04.16-19.34.19:753][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_3DF6A8CC] ([1] browsable assets)...
+[2025.04.16-19.34.19:753][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_3DF6A8CC]
+[2025.04.16-19.34.19:754][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_3DF6A8CC_Auto2
+[2025.04.16-19.34.19:754][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_3DF6A8CC_AutoDDD327D04B677B7427097DAA99958509.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_3DF6A8CC_Auto2.uasset'
+[2025.04.16-19.34.19:755][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0D99557C] ([1] browsable assets)...
+[2025.04.16-19.34.19:798][557]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0D99557C.CubeGridToolOutput_0D99557C]
+[2025.04.16-19.34.19:798][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0D99557C]
+[2025.04.16-19.34.19:801][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0D99557C_Auto2
+[2025.04.16-19.34.19:801][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_0D99557C_Auto2666546A49CF24D03FD6EB947FC2B09E.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0D99557C_Auto2.uasset'
+[2025.04.16-19.34.19:802][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0905BA31] ([1] browsable assets)...
+[2025.04.16-19.34.19:802][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0905BA31]
+[2025.04.16-19.34.19:804][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0905BA31_Auto2
+[2025.04.16-19.34.19:804][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_0905BA31_Auto89FCEFD841747791132933B21C09C669.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0905BA31_Auto2.uasset'
+[2025.04.16-19.34.19:805][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_9EC9EBFF] ([1] browsable assets)...
+[2025.04.16-19.34.19:805][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_9EC9EBFF]
+[2025.04.16-19.34.19:807][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_9EC9EBFF_Auto2
+[2025.04.16-19.34.19:807][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Stairs_9EC9EBFF_Auto2E40A9BF0436D0712D001CFA237947D07.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_9EC9EBFF_Auto2.uasset'
+[2025.04.16-19.34.19:807][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_4816CAF7] ([1] browsable assets)...
+[2025.04.16-19.34.19:807][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_4816CAF7]
+[2025.04.16-19.34.19:810][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_4816CAF7_Auto2
+[2025.04.16-19.34.19:810][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_4816CAF7_AutoDFDECF5C4EE301B85D3B87B8600AAF87.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_4816CAF7_Auto2.uasset'
+[2025.04.16-19.34.19:811][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_108C09E3] ([1] browsable assets)...
+[2025.04.16-19.34.19:811][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_108C09E3]
+[2025.04.16-19.34.19:813][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_108C09E3_Auto2
+[2025.04.16-19.34.19:813][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_108C09E3_Auto400787CA4F9AE18EA1F068B4F1FD9789.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_108C09E3_Auto2.uasset'
+[2025.04.16-19.34.19:813][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D548A730] ([1] browsable assets)...
+[2025.04.16-19.34.19:815][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D548A730]
+[2025.04.16-19.34.19:816][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D548A730_Auto2
+[2025.04.16-19.34.19:816][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_D548A730_AutoD18FD5844663724EAA31CEBB8F063CAE.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D548A730_Auto2.uasset'
+[2025.04.16-19.34.19:817][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_9AE3F411] ([1] browsable assets)...
+[2025.04.16-19.34.19:817][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_9AE3F411]
+[2025.04.16-19.34.19:819][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_9AE3F411_Auto2
+[2025.04.16-19.34.19:819][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Stairs_9AE3F411_Auto24EFE81714AEBDEF960371F8609F78D54.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_9AE3F411_Auto2.uasset'
+[2025.04.16-19.34.19:820][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/Box_464328A6] ([1] browsable assets)...
+[2025.04.16-19.34.19:820][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/Box_464328A6]
+[2025.04.16-19.34.19:822][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Box_464328A6_Auto2
+[2025.04.16-19.34.19:822][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Box_464328A6_Auto2D171D8F64764C7D30467B3BE4D545E07.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Box_464328A6_Auto2.uasset'
+[2025.04.16-19.34.19:823][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E] ([1] browsable assets)...
+[2025.04.16-19.34.19:829][557]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E.CubeGridToolOutput_ACB3F70E]
+[2025.04.16-19.34.19:829][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E]
+[2025.04.16-19.34.19:832][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E_Auto2
+[2025.04.16-19.34.19:832][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_ACB3F70E_Auto5CAAFC2143EE9F3C1C010790A44107B8.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_ACB3F70E_Auto2.uasset'
+[2025.04.16-19.34.19:833][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_847CD397] ([1] browsable assets)...
+[2025.04.16-19.34.19:839][557]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_847CD397.CubeGridToolOutput_847CD397]
+[2025.04.16-19.34.19:840][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_847CD397]
+[2025.04.16-19.34.19:842][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_847CD397_Auto2
+[2025.04.16-19.34.19:842][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_847CD397_Auto524EB06E426A89AE75C75F85FCA31AEE.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_847CD397_Auto2.uasset'
+[2025.04.16-19.34.19:843][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_8D9274B5] ([1] browsable assets)...
+[2025.04.16-19.34.19:849][557]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_8D9274B5.Stairs_8D9274B5]
+[2025.04.16-19.34.19:849][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_8D9274B5]
+[2025.04.16-19.34.19:851][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_8D9274B5_Auto2
+[2025.04.16-19.34.19:851][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Stairs_8D9274B5_Auto2211354EE49FD7DD36B020D963EC099B5.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_8D9274B5_Auto2.uasset'
+[2025.04.16-19.34.19:852][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_1CA66265] ([1] browsable assets)...
+[2025.04.16-19.34.19:859][557]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_1CA66265.Cylinder_1CA66265]
+[2025.04.16-19.34.19:859][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_1CA66265]
+[2025.04.16-19.34.19:862][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_1CA66265_Auto2
+[2025.04.16-19.34.19:862][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Cylinder_1CA66265_Auto2F2B65BC94095A63F7007F199A505CF44.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Cylinder_1CA66265_Auto2.uasset'
+[2025.04.16-19.34.19:863][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_749773A6] ([1] browsable assets)...
+[2025.04.16-19.34.19:867][557]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_749773A6.CubeGridToolOutput_749773A6]
+[2025.04.16-19.34.19:867][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_749773A6]
+[2025.04.16-19.34.19:871][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_749773A6_Auto2
+[2025.04.16-19.34.19:871][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_749773A6_Auto3301DD3C484F35C0C7F6DB989E328216.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_749773A6_Auto2.uasset'
+[2025.04.16-19.34.19:872][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0CA9C25D] ([1] browsable assets)...
+[2025.04.16-19.34.19:879][557]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0CA9C25D.CubeGridToolOutput_0CA9C25D]
+[2025.04.16-19.34.19:879][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0CA9C25D]
+[2025.04.16-19.34.19:881][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0CA9C25D_Auto2
+[2025.04.16-19.34.19:881][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_0CA9C25D_Auto9429719241B90B106C2B388EC7210EEC.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_0CA9C25D_Auto2.uasset'
+[2025.04.16-19.34.19:882][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_4F244A6C] ([1] browsable assets)...
+[2025.04.16-19.34.19:889][557]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_4F244A6C.CubeGridToolOutput_4F244A6C]
+[2025.04.16-19.34.19:889][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_4F244A6C]
+[2025.04.16-19.34.19:891][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_4F244A6C_Auto2
+[2025.04.16-19.34.19:891][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_4F244A6C_Auto5A4711F2440148F8653655B1A3D9AAF4.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_4F244A6C_Auto2.uasset'
+[2025.04.16-19.34.19:892][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_A7B100B1] ([1] browsable assets)...
+[2025.04.16-19.34.19:898][557]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_A7B100B1.CubeGridToolOutput_A7B100B1]
+[2025.04.16-19.34.19:898][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_A7B100B1]
+[2025.04.16-19.34.19:902][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_A7B100B1_Auto2
+[2025.04.16-19.34.19:902][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_A7B100B1_Auto300706324BDC1B8427EA63954DFB38F7.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_A7B100B1_Auto2.uasset'
+[2025.04.16-19.34.19:903][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_E732083B] ([1] browsable assets)...
+[2025.04.16-19.34.19:909][557]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_E732083B.Stairs_E732083B]
+[2025.04.16-19.34.19:909][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_E732083B]
+[2025.04.16-19.34.19:911][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_E732083B_Auto2
+[2025.04.16-19.34.19:911][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Stairs_E732083B_Auto24D413FAF44FA2288208408A217CAAA81.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Stairs_E732083B_Auto2.uasset'
+[2025.04.16-19.34.19:912][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_1DE44838] ([1] browsable assets)...
+[2025.04.16-19.34.19:919][557]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_1DE44838.CubeGridToolOutput_1DE44838]
+[2025.04.16-19.34.19:919][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_1DE44838]
+[2025.04.16-19.34.19:921][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_1DE44838_Auto2
+[2025.04.16-19.34.19:921][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_1DE44838_Auto075D1C504F46DE7B356F8690EBFEED85.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_1DE44838_Auto2.uasset'
+[2025.04.16-19.34.19:922][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D2DE89B7] ([1] browsable assets)...
+[2025.04.16-19.34.19:927][557]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D2DE89B7.CubeGridToolOutput_D2DE89B7]
+[2025.04.16-19.34.19:927][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D2DE89B7]
+[2025.04.16-19.34.19:930][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D2DE89B7_Auto2
+[2025.04.16-19.34.19:930][557]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/CubeGridToolOutput_D2DE89B7_AutoEC930EF94A5ABF97EBDD13ACCFF2ED7C.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_D2DE89B7_Auto2.uasset'
+[2025.04.16-19.34.19:931][557]LogFileHelpers: Auto-saving content packages took 0.298
+[2025.04.16-19.35.30:292][881]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.16-19.35.30:356][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.04.16-19.35.30:368][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.04.16-19.35.30:380][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.04.16-19.35.30:382][881]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/P1/ZVK7WI25PNBNTQCJY27CHJ
+[2025.04.16-19.35.30:382][881]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/ZVK7WI25PNBNTQCJY27CHJ9784C38545D66BD0685F58A9D462B500.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/P1/ZVK7WI25PNBNTQCJY27CHJ.uasset'
+[2025.04.16-19.35.30:385][881]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/KH/3N1GCQEGHL45X1GWTUTAAU
+[2025.04.16-19.35.30:385][881]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/3N1GCQEGHL45X1GWTUTAAUDF5AEB054CC8F4649536FD9C461A2D8C.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/KH/3N1GCQEGHL45X1GWTUTAAU.uasset'
+[2025.04.16-19.35.30:387][881]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/FJ/WCOQTAERBCTRVMC4TL07QL
+[2025.04.16-19.35.30:387][881]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/WCOQTAERBCTRVMC4TL07QL9724D3CB4A75A355BE79B2BA3EE42151.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/FJ/WCOQTAERBCTRVMC4TL07QL.uasset'
+[2025.04.16-19.35.30:389][881]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/BO/6Z53PQ4A5CFFL5VFL69SM1
+[2025.04.16-19.35.30:389][881]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/6Z53PQ4A5CFFL5VFL69SM1169A6A2E4DFD803231773197BF661453.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/BO/6Z53PQ4A5CFFL5VFL69SM1.uasset'
+[2025.04.16-19.35.30:402][881]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.284 ms (total: 4.97 sec)
+[2025.04.16-19.35.30:441][881]LogContentValidation: Display: Starting to validate 4 assets
+[2025.04.16-19.35.30:441][881]LogContentValidation: Enabled validators:
+[2025.04.16-19.35.30:441][881]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.16-19.35.30:441][881]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.16-19.35.30:441][881]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.16-19.35.30:441][881]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.16-19.35.30:441][881]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.16-19.35.30:441][881]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.16-19.35.30:441][881]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
