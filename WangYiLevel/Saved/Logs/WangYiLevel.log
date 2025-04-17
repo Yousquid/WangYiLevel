@@ -2595,3 +2595,868 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.17-00.53.45:336][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
 [2025.04.17-00.53.45:385][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
 [2025.04.17-00.53.45:401][394]LogFileHelpers: InternalPromptForCheckoutAndSave took 372.632 ms (total: 3.16 sec)
+[2025.04.17-00.54.57:799][743]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-00.54.57:862][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.04.17-00.54.57:889][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.04.17-00.54.57:921][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.04.17-00.54.57:938][743]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.754 ms (total: 3.30 sec)
+[2025.04.17-00.55.05:348][583]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.04.17-00.57.15:119][ 28]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-00.57.15:125][ 28]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.17-00.57.15:125][ 28]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.04.17-00.57.15:130][ 28]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 5.481 ms (total: 66.606 ms)
+[2025.04.17-00.57.15:130][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-00.57.15:130][ 28]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.17-00.57.15:141][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010064s)
+[2025.04.17-00.57.15:141][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010105s)
+[2025.04.17-00.57.15:162][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.04.17-00.57.15:163][ 28]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.04.17-00.57.15:165][ 28]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.17-00.57.15:165][ 28]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.17-00.57.15:165][ 28]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.17-00.57.15:165][ 28]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.17-00.57.15:168][ 28]LogWorldPartition: Display: WorldPartition initialize took 3.369 ms (total: 331.242 ms)
+[2025.04.17-00.57.15:168][ 28]LogPlayLevel: PIE: World Init took: (0.004998s)
+[2025.04.17-00.57.15:169][ 28]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.04.17-00.57.15:169][ 28]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-00.57.15:169][ 28]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-00.57.15:169][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-00.57.15:169][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-00.57.15:169][ 28]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.17-00.57.15:169][ 28]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-00.57.15:169][ 28]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.17-00.57.15:169][ 28]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-00.57.15:169][ 28]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-00.57.15:169][ 28]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-00.57.15:169][ 28]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-00.57.15:172][ 28]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-00.57.15:210][ 28]LogAudioMixer: Display: Using Audio Hardware Device OMEN 27qs (NVIDIA High Definition Audio)
+[2025.04.17-00.57.15:210][ 28]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-00.57.15:210][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-00.57.15:210][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-00.57.15:211][ 28]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.04.17-00.57.15:211][ 28]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.04.17-00.57.15:212][ 28]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.04.17-00.57.15:212][ 28]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.04.17-00.57.15:212][ 28]LogInit: FAudioDevice initialized with ID 13.
+[2025.04.17-00.57.15:212][ 28]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonMap'.
+[2025.04.17-00.57.15:212][ 28]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.04.17-00.57.15:216][ 28]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.17-00.57.15:222][ 28]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.04.17-08.57.15
+[2025.04.17-00.57.15:223][ 28]LogWorld: Bringing up level for play took: 0.006265
+[2025.04.17-00.57.15:225][ 28]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.04.17-00.57.15:229][ 28]PIE: Server logged in
+[2025.04.17-00.57.15:230][ 28]PIE: Play in editor total start time 0.106 seconds.
+[2025.04.17-00.58.37:739][900]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2116.070068
+[2025.04.17-00.58.37:797][907]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.17-00.58.37:797][907]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2116.120361, Update Interval: 323.830078
+[2025.04.17-01.01.29:142][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-01.01.29:142][456]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.17-01.01.29:143][456]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-01.01.29:145][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-01.01.29:145][456]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.04.17-01.01.29:150][456]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-01.01.29:158][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-01.01.29:182][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-01.01.29:182][456]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.04.17-01.01.29:182][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.04.17-01.01.29:184][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.04.17-01.01.29:192][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.04.17-01.01.29:238][457]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.04.17-01.01.32:529][807]LogStreaming: Display: FlushAsyncLoading(753): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.17-01.02.46:858][ 29]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/Cone_828F440D.Cone_828F440D
+[2025.04.17-01.02.46:858][ 29]LogStaticMesh: Display: Building static mesh Cone_828F440D (Required Memory Estimate: 0.109482 MB)...
+[2025.04.17-01.02.46:861][ 29]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/Cone_828F440D.Cone_828F440D
+[2025.04.17-01.02.46:861][ 29]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/Cone_828F440D.Cone_828F440D as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_50EBF6B199AFB35F02_1751298321
+[2025.04.17-01.02.52:804][482]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.04.17-01.02.52:818][482]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.04.17-01.02.52:835][483]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.04.17-01.02.55:200][740]LogContentBrowser: Attempting asset rename: NewMaterial -> Light
+[2025.04.17-01.02.55:201][740]LogContentBrowser: End creating deferred item NewMaterial
+[2025.04.17-01.02.56:102][814]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Light.Light
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.04.17-01.02.56:103][814]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.04.17-01.02.56:103][814]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.04.17-01.02.56:108][814]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.04.17-01.02.56:509][814]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.17-01.02.56:509][814]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.02.56:509][814]MaterialEditorStats: Shader Count: 0
+[2025.04.17-01.02.56:509][814]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.17-01.02.56:596][816]MaterialEditorStats: Base pass shader: 164 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.17-01.02.56:596][816]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.17-01.02.56:596][816]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.17-01.02.56:596][816]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.02.56:596][816]MaterialEditorStats: Shader Count: 5
+[2025.04.17-01.02.56:596][816]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.17-01.03.16:828][893]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-01.03.16:843][893]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.17-01.03.16:843][893]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.03.16:843][893]MaterialEditorStats: Shader Count: 0
+[2025.04.17-01.03.16:843][893]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.17-01.03.18:532][  0]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.17-01.03.18:533][  0]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.17-01.03.18:533][  0]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.03.18:533][  0]MaterialEditorStats: Shader Count: 3
+[2025.04.17-01.03.18:533][  0]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.17-01.03.18:735][ 12]MaterialEditorStats: Base pass shader: 167 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.17-01.03.18:735][ 12]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.17-01.03.18:735][ 12]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.17-01.03.18:735][ 12]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.03.18:735][ 12]MaterialEditorStats: Shader Count: 4
+[2025.04.17-01.03.18:735][ 12]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.17-01.03.23:761][368]LogMaterialEditor: Saving and Compiling material Light
+[2025.04.17-01.03.23:911][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.04.17-01.03.25:015][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.04.17-01.03.25:031][368]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-01.03.25:066][368]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Light] ([1] browsable assets)...
+[2025.04.17-01.03.25:076][368]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Light.Light]
+[2025.04.17-01.03.25:076][368]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Light]
+[2025.04.17-01.03.25:076][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Light" FILE="../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/Materials/Light.uasset" SILENT=true
+[2025.04.17-01.03.25:078][368]LogSavePackage: Moving output files for package: /Game/Materials/Light
+[2025.04.17-01.03.25:078][368]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Light1393EB9F4DEF9AB0DC0A54BDCBB8964D.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/Materials/Light.uasset'
+[2025.04.17-01.03.25:091][368]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.122 ms (total: 3.36 sec)
+[2025.04.17-01.03.25:126][368]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.17-01.03.25:127][368]LogContentValidation: Enabled validators:
+[2025.04.17-01.03.25:127][368]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.17-01.03.25:127][368]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-01.03.25:127][368]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-01.03.25:127][368]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.17-01.03.25:127][368]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-01.03.25:127][368]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.17-01.03.25:127][368]AssetCheck: /Game/Materials/Light Validating asset
+[2025.04.17-01.04.21:368][569]LogStreaming: Display: FlushAsyncLoading(755): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.17-01.04.29:141][283]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_Glass.M_Glass
+[2025.04.17-01.04.29:145][283]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.04.17-01.04.29:519][283]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.17-01.04.29:519][283]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.29:519][283]MaterialEditorStats: Shader Count: 0
+[2025.04.17-01.04.29:519][283]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.29:615][285]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.17-01.04.29:617][285]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.17-01.04.29:617][285]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.29:617][285]MaterialEditorStats: Shader Count: 7
+[2025.04.17-01.04.29:617][285]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.37:382][747]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-01.04.40:435][930]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.17-01.04.40:435][930]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.40:435][930]MaterialEditorStats: Shader Count: 0
+[2025.04.17-01.04.40:435][930]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.40:474][932]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.17-01.04.40:474][932]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.17-01.04.40:474][932]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.40:474][932]MaterialEditorStats: Shader Count: 6
+[2025.04.17-01.04.40:474][932]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.40:488][933]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.17-01.04.40:488][933]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.17-01.04.40:488][933]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.40:488][933]MaterialEditorStats: Shader Count: 7
+[2025.04.17-01.04.40:488][933]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.42:569][ 72]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.17-01.04.42:569][ 72]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.42:569][ 72]MaterialEditorStats: Shader Count: 0
+[2025.04.17-01.04.42:569][ 72]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.42:610][ 74]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.17-01.04.42:610][ 74]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.17-01.04.42:610][ 74]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.42:610][ 74]MaterialEditorStats: Shader Count: 6
+[2025.04.17-01.04.42:610][ 74]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.42:627][ 75]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.17-01.04.42:627][ 75]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.17-01.04.42:627][ 75]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.42:627][ 75]MaterialEditorStats: Shader Count: 7
+[2025.04.17-01.04.42:627][ 75]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.43:330][118]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.17-01.04.43:331][118]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.43:331][118]MaterialEditorStats: Shader Count: 0
+[2025.04.17-01.04.43:331][118]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.43:368][120]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.17-01.04.43:368][120]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.43:368][120]MaterialEditorStats: Shader Count: 5
+[2025.04.17-01.04.43:368][120]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.43:384][121]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.17-01.04.43:384][121]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.17-01.04.43:384][121]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.43:384][121]MaterialEditorStats: Shader Count: 7
+[2025.04.17-01.04.43:384][121]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.44:989][224]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.17-01.04.44:989][224]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.44:989][224]MaterialEditorStats: Shader Count: 0
+[2025.04.17-01.04.44:989][224]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.45:030][226]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.17-01.04.45:030][226]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.17-01.04.45:030][226]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.45:030][226]MaterialEditorStats: Shader Count: 5
+[2025.04.17-01.04.45:030][226]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.45:047][227]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.17-01.04.45:047][227]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.17-01.04.45:047][227]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.45:047][227]MaterialEditorStats: Shader Count: 7
+[2025.04.17-01.04.45:047][227]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.45:717][268]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.17-01.04.45:717][268]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.45:717][268]MaterialEditorStats: Shader Count: 0
+[2025.04.17-01.04.45:717][268]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.45:757][270]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.17-01.04.45:757][270]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.17-01.04.45:757][270]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.45:757][270]MaterialEditorStats: Shader Count: 6
+[2025.04.17-01.04.45:757][270]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.45:774][271]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.17-01.04.45:775][271]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.17-01.04.45:775][271]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.45:775][271]MaterialEditorStats: Shader Count: 7
+[2025.04.17-01.04.45:775][271]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.47:336][373]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2485.681885
+[2025.04.17-01.04.47:396][377]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.17-01.04.47:396][377]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2485.725830, Update Interval: 303.356415
+[2025.04.17-01.04.47:774][403]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.17-01.04.47:774][403]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.47:774][403]MaterialEditorStats: Shader Count: 0
+[2025.04.17-01.04.47:774][403]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.47:832][406]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.17-01.04.47:832][406]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.17-01.04.47:832][406]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.47:832][406]MaterialEditorStats: Shader Count: 7
+[2025.04.17-01.04.47:832][406]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.49:027][481]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.17-01.04.49:027][481]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.49:028][481]MaterialEditorStats: Shader Count: 0
+[2025.04.17-01.04.49:028][481]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.49:066][483]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.17-01.04.49:066][483]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.17-01.04.49:066][483]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.49:066][483]MaterialEditorStats: Shader Count: 6
+[2025.04.17-01.04.49:066][483]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.49:084][484]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.17-01.04.49:084][484]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.17-01.04.49:084][484]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.49:084][484]MaterialEditorStats: Shader Count: 7
+[2025.04.17-01.04.49:084][484]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.52:761][726]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.17-01.04.52:762][726]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.52:762][726]MaterialEditorStats: Shader Count: 0
+[2025.04.17-01.04.52:762][726]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.52:789][726]LogShaderCompilers: Display: Cancelled job 0x00000A2F9F236400 with pending SubmitJob call.
+[2025.04.17-01.04.52:836][729]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.17-01.04.52:836][729]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.17-01.04.52:836][729]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.52:836][729]MaterialEditorStats: Shader Count: 6
+[2025.04.17-01.04.52:836][729]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.52:854][730]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.17-01.04.52:854][730]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.17-01.04.52:854][730]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.52:854][730]MaterialEditorStats: Shader Count: 7
+[2025.04.17-01.04.52:854][730]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.54:347][822]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.17-01.04.54:347][822]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.54:347][822]MaterialEditorStats: Shader Count: 0
+[2025.04.17-01.04.54:347][822]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.54:393][824]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.17-01.04.54:393][824]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.17-01.04.54:393][824]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.54:393][824]MaterialEditorStats: Shader Count: 7
+[2025.04.17-01.04.54:393][824]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.56:095][927]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.17-01.04.56:095][927]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.56:095][927]MaterialEditorStats: Shader Count: 0
+[2025.04.17-01.04.56:095][927]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.56:143][929]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.17-01.04.56:143][929]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.17-01.04.56:143][929]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.56:143][929]MaterialEditorStats: Shader Count: 7
+[2025.04.17-01.04.56:143][929]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.59:140][112]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.17-01.04.59:140][112]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.59:140][112]MaterialEditorStats: Shader Count: 0
+[2025.04.17-01.04.59:140][112]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.04.59:182][114]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.17-01.04.59:182][114]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.17-01.04.59:182][114]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.04.59:182][114]MaterialEditorStats: Shader Count: 7
+[2025.04.17-01.04.59:182][114]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.05.00:763][208]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.17-01.05.00:763][208]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.05.00:763][208]MaterialEditorStats: Shader Count: 0
+[2025.04.17-01.05.00:763][208]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.05.00:784][208]LogShaderCompilers: Display: Cancelled job 0x00000A2FF9030000 with pending SubmitJob call.
+[2025.04.17-01.05.00:785][208]LogShaderCompilers: Display: Cancelled job 0x00000A2FA1174600 with pending SubmitJob call.
+[2025.04.17-01.05.00:787][208]LogShaderCompilers: Display: Cancelled job 0x00000A2F72C4C800 with pending SubmitJob call.
+[2025.04.17-01.05.00:825][211]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.17-01.05.00:825][211]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.05.00:825][211]MaterialEditorStats: Shader Count: 4
+[2025.04.17-01.05.00:825][211]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.05.00:846][212]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.17-01.05.00:846][212]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.17-01.05.00:846][212]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.05.00:846][212]MaterialEditorStats: Shader Count: 7
+[2025.04.17-01.05.00:846][212]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.05.02:324][301]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.17-01.05.02:324][301]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.05.02:324][301]MaterialEditorStats: Shader Count: 0
+[2025.04.17-01.05.02:324][301]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.05.02:373][303]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.17-01.05.02:373][303]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.17-01.05.02:373][303]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.05.02:373][303]MaterialEditorStats: Shader Count: 7
+[2025.04.17-01.05.02:373][303]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.05.03:613][376]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.17-01.05.03:613][376]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.05.03:613][376]MaterialEditorStats: Shader Count: 0
+[2025.04.17-01.05.03:613][376]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.05.03:656][378]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.17-01.05.03:656][378]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.17-01.05.03:656][378]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.05.03:656][378]MaterialEditorStats: Shader Count: 7
+[2025.04.17-01.05.03:656][378]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.05.05:175][470]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.17-01.05.05:191][470]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.17-01.05.05:191][470]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.05.05:191][470]MaterialEditorStats: Shader Count: 0
+[2025.04.17-01.05.05:191][470]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.05.05:254][473]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.17-01.05.05:254][473]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.17-01.05.05:254][473]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.05.05:254][473]MaterialEditorStats: Shader Count: 4
+[2025.04.17-01.05.05:254][473]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.05.05:739][499]LogMaterialEditor: Saving and Compiling material M_Glass
+[2025.04.17-01.05.05:875][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.04.17-01.05.07:669][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.04.17-01.05.07:684][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-01.05.07:715][499]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Glass] ([1] browsable assets)...
+[2025.04.17-01.05.07:724][499]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Glass.M_Glass]
+[2025.04.17-01.05.07:724][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Glass]
+[2025.04.17-01.05.07:727][499]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/M_Glass
+[2025.04.17-01.05.07:727][499]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/M_Glass4504B89345DFED132D663986913E77B7.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/StarterContent/Materials/M_Glass.uasset'
+[2025.04.17-01.05.07:739][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.963 ms (total: 3.41 sec)
+[2025.04.17-01.05.07:799][499]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.17-01.05.07:799][499]LogContentValidation: Enabled validators:
+[2025.04.17-01.05.07:799][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.17-01.05.07:799][499]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-01.05.07:799][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-01.05.07:799][499]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.17-01.05.07:799][499]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-01.05.07:799][499]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.17-01.05.07:799][499]AssetCheck: /Game/StarterContent/Materials/M_Glass Validating asset
+[2025.04.17-01.05.07:810][499]MaterialEditorStats: Base pass shader: 1052 instructions
+Stats: Resources Used: 17
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.04.17-01.05.07:810][499]MaterialEditorStats: Base pass vertex shader: 341 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.17-01.05.07:810][499]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.17-01.05.07:810][499]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.17-01.05.07:810][499]MaterialEditorStats: Shader Count: 19
+[2025.04.17-01.05.07:810][499]MaterialEditorStats: Preshaders: 9  (9 param fetches, 12 ops)
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: ================================================
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: Total job queries 705, among them cache hits 311 (44.11%), DDC hits 331 (46.95%), Duplicates 3 (0.43%)
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: Tracking 391 distinct input hashes that result in 294 distinct outputs (75.19%)
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: RAM used: 173.49 KiB of 3.20 GiB budget. Usage: 0.01%
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: Shaders Compiled: 60
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: Jobs assigned 60, completed 60 (100%)
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: Average time worker was idle: 13.51 s
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.13 s
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: Job execution time: average 0.97 s, max 2.17 s
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: Job life time (pending + execution): average 1.02 s, max 2.24
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: Shader code size: average 8.389 KiB, min 2.797 KiB, max 27.145 KiB
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.63 s
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.78%
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: Jobs were issued in 60 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: Average processing rate: 3.84 jobs/sec
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: Total thread time: 38.57 s
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: Total thread preprocess time: 10.984 s
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: Percentage time preprocessing: 28.48%
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: Effective parallelization: 2.47 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    5 times, average 1.37 sec, max 1.60 sec, min 1.04 sec)
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 1.18 sec, max 1.18 sec, min 1.18 sec)
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 1.01 sec, max 1.01 sec, min 1.01 sec)
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    1 times, average 1.01 sec, max 1.01 sec, min 1.01 sec)
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.98 sec, max 1.02 sec, min 0.94 sec)
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 17.80% of total time (compiled    5 times, average 1.37 sec, max 1.60 sec, min 1.04 sec)
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.15% of total time (compiled    7 times, average 0.56 sec, max 0.63 sec, min 0.47 sec)
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.59% of total time (compiled    3 times, average 0.98 sec, max 1.02 sec, min 0.94 sec)
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.42% of total time (compiled    7 times, average 0.41 sec, max 0.53 sec, min 0.34 sec)
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display:                                                 FLumenCardPS - 6.94% of total time (compiled    6 times, average 0.45 sec, max 0.58 sec, min 0.35 sec)
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: === Material stats ===
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: Materials Translated:    182
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: Material Translation Only: 0.04 s (40%)
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: Material Cache Hits: 24 (13%)
+[2025.04.17-01.05.26:572][379]LogShaderCompilers: Display: ================================================
+[2025.04.17-01.05.39:986][797]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-01.05.40:045][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.04.17-01.05.40:151][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.04.17-01.05.40:208][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.04.17-01.05.40:211][797]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/XY/NC89TBJ14RASZYLRH9O5R8
+[2025.04.17-01.05.40:211][797]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/NC89TBJ14RASZYLRH9O5R8479EFE49441AD51B56FC5FAF2E857471.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/XY/NC89TBJ14RASZYLRH9O5R8.uasset'
+[2025.04.17-01.05.40:226][797]LogFileHelpers: InternalPromptForCheckoutAndSave took 239.813 ms (total: 3.65 sec)
+[2025.04.17-01.05.40:258][797]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.17-01.05.40:258][797]LogContentValidation: Enabled validators:
+[2025.04.17-01.05.40:258][797]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.17-01.05.40:258][797]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-01.05.40:258][797]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-01.05.40:258][797]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.17-01.05.40:258][797]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-01.05.40:258][797]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.17-01.05.40:258][797]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.04.17-01.05.41:149][898]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-01.05.41:156][898]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.17-01.05.41:156][898]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.04.17-01.05.41:161][898]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 5.697 ms (total: 72.303 ms)
+[2025.04.17-01.05.41:161][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-01.05.41:189][898]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.17-01.05.41:199][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010142s)
+[2025.04.17-01.05.41:199][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010188s)
+[2025.04.17-01.05.41:220][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.04.17-01.05.41:225][898]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.04.17-01.05.41:227][898]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.17-01.05.41:227][898]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.17-01.05.41:227][898]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.17-01.05.41:227][898]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.17-01.05.41:231][898]LogWorldPartition: Display: WorldPartition initialize took 4.338 ms (total: 335.580 ms)
+[2025.04.17-01.05.41:231][898]LogPlayLevel: PIE: World Init took: (0.006144s)
+[2025.04.17-01.05.41:232][898]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.04.17-01.05.41:232][898]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-01.05.41:232][898]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-01.05.41:232][898]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-01.05.41:232][898]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-01.05.41:232][898]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.17-01.05.41:232][898]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-01.05.41:232][898]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.17-01.05.41:232][898]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-01.05.41:232][898]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-01.05.41:232][898]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-01.05.41:232][898]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-01.05.41:234][898]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-01.05.41:276][898]LogAudioMixer: Display: Using Audio Hardware Device OMEN 27qs (NVIDIA High Definition Audio)
+[2025.04.17-01.05.41:277][898]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-01.05.41:277][898]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-01.05.41:277][898]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-01.05.41:278][898]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.04.17-01.05.41:278][898]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.04.17-01.05.41:280][898]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.04.17-01.05.41:280][898]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.04.17-01.05.41:280][898]LogInit: FAudioDevice initialized with ID 14.
+[2025.04.17-01.05.41:280][898]LogAudio: Display: Audio Device (ID: 14) registered with world 'ThirdPersonMap'.
+[2025.04.17-01.05.41:280][898]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.04.17-01.05.41:286][898]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.17-01.05.41:293][898]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.04.17-09.05.41
+[2025.04.17-01.05.41:293][898]LogWorld: Bringing up level for play took: 0.006293
+[2025.04.17-01.05.41:296][898]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.04.17-01.05.41:301][898]PIE: Server logged in
+[2025.04.17-01.05.41:303][898]PIE: Play in editor total start time 0.147 seconds.
+[2025.04.17-01.06.23:759][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-01.06.23:759][966]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.17-01.06.23:759][966]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-01.06.23:761][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-01.06.23:762][966]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.04.17-01.06.23:766][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-01.06.23:773][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-01.06.23:796][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-01.06.23:797][966]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.04.17-01.06.23:797][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.04.17-01.06.23:798][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.04.17-01.06.23:806][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.04.17-01.06.23:843][967]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.04.17-01.06.59:480][944]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-01.06.59:548][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.04.17-01.06.59:571][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.04.17-01.06.59:590][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.04.17-01.06.59:604][944]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.014 ms (total: 3.78 sec)
+[2025.04.17-01.06.59:900][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.04.17-01.06.59:902][956]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.050
+[2025.04.17-01.06.59:902][956]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/30791/Cone_828F440D] ([1] browsable assets)...
+[2025.04.17-01.06.59:943][956]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/Cone_828F440D.Cone_828F440D]
+[2025.04.17-01.06.59:943][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/30791/Cone_828F440D]
+[2025.04.17-01.06.59:945][956]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Cone_828F440D_Auto3
+[2025.04.17-01.06.59:945][956]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Cone_828F440D_Auto38B21AB1648374B31B334DEA172EC2716.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/30791/Cone_828F440D_Auto3.uasset'
+[2025.04.17-01.06.59:946][956]LogFileHelpers: Auto-saving content packages took 0.045
+[2025.04.17-01.07.15:985][664]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-01.07.16:072][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.04.17-01.07.16:112][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.04.17-01.07.16:154][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.04.17-01.07.16:167][664]LogFileHelpers: InternalPromptForCheckoutAndSave took 182.604 ms (total: 3.96 sec)
+[2025.04.17-01.07.23:326][397]LogStreaming: Display: FlushAsyncLoading(756): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.17-01.07.29:802][913]LogStaticMesh: Display: Building static mesh Box_6C590339 (Required Memory Estimate: 0.222455 MB)...
+[2025.04.17-01.07.29:803][913]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/Box_6C590339.Box_6C590339
+[2025.04.17-01.07.29:803][913]LogStaticMesh: Warning: Box_6C590339 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.17-01.07.29:803][913]LogStaticMesh: Warning: Box_6C590339 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.17-01.07.30:178][913]LogStaticMesh: Display: Building static mesh Box_6C590339 (Required Memory Estimate: 0.245159 MB)...
+[2025.04.17-01.07.30:179][913]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/Box_6C590339.Box_6C590339
+[2025.04.17-01.07.30:179][913]LogStaticMesh: Warning: Box_6C590339 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.17-01.07.30:179][913]LogStaticMesh: Warning: Box_6C590339 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.17-01.07.41:526][946]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Movable_Box.BP_Movable_Box_C
+[2025.04.17-01.07.41:526][946]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Movable_Box.BP_Movable_Box_C
+[2025.04.17-01.07.41:528][946]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Movable_Box.BP_Movable_Box as actor: BP_Movable_Box_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Movable_Box_C_1
+[2025.04.17-01.07.41:529][946]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Movable_Box.BP_Movable_Box as actor: BP_Movable_Box_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Movable_Box_C_1
+[2025.04.17-01.07.42:766][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.04.17-01.07.42:770][ 26]LogEditorActor: Deleted 0 Actors (0.038 secs)
+[2025.04.17-01.07.42:778][ 26]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Movable_Box.BP_Movable_Box_C
+[2025.04.17-01.07.42:778][ 26]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Movable_Box.BP_Movable_Box_C
+[2025.04.17-01.07.42:781][ 26]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Movable_Box.BP_Movable_Box as actor: BP_Movable_Box_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Movable_Box_C_UAID_50EBF6B199AFB35F02_2047218322
+[2025.04.17-01.07.42:782][ 26]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Movable_Box.BP_Movable_Box as actor: BP_Movable_Box_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Movable_Box_C_UAID_50EBF6B199AFB35F02_2047218322
+[2025.04.17-01.09.04:798][574]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_52F35592.CubeGridToolOutput_52F35592
+[2025.04.17-01.09.04:798][574]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_52F35592 (Required Memory Estimate: 0.040895 MB)...
+[2025.04.17-01.09.04:798][574]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_52F35592.CubeGridToolOutput_52F35592
+[2025.04.17-01.09.04:801][574]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_52F35592.CubeGridToolOutput_52F35592 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_50EBF6B199AFB35F02_2129238323
+[2025.04.17-01.09.28:908][ 47]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_494990CB (Required Memory Estimate: 0.027864 MB)...
+[2025.04.17-01.09.28:908][ 47]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_494990CB.CubeGridToolOutput_494990CB
+[2025.04.17-01.09.28:908][ 47]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_494990CB.CubeGridToolOutput_494990CB
+[2025.04.17-01.09.28:912][ 47]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThirdPerson/Maps/_GENERATED/30791/CubeGridToolOutput_494990CB.CubeGridToolOutput_494990CB as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_50EBF6B199AFB45F02_1079606500
+[2025.04.17-01.09.59:811][153]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-01.09.59:901][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.04.17-01.09.59:944][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.04.17-01.09.59:968][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.04.17-01.09.59:971][153]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/07/1FOELZDLM6UZKMD7J8PUSD
+[2025.04.17-01.09.59:972][153]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/1FOELZDLM6UZKMD7J8PUSD96332487494CEDEBBB521FBD7425140D.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/07/1FOELZDLM6UZKMD7J8PUSD.uasset'
+[2025.04.17-01.09.59:973][153]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/3J/1R249C7TJWMY73MNN49AFO
+[2025.04.17-01.09.59:974][153]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/1R249C7TJWMY73MNN49AFOA296314E4CFE46F7B5F2A283B9AB3344.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/3J/1R249C7TJWMY73MNN49AFO.uasset'
+[2025.04.17-01.09.59:976][153]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/TS/DDOLDWY3L264KGPC5TL4K8
+[2025.04.17-01.09.59:977][153]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/DDOLDWY3L264KGPC5TL4K8E8772C2747A96F2ACEEB10A132D5B076.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/TS/DDOLDWY3L264KGPC5TL4K8.uasset'
+[2025.04.17-01.09.59:979][153]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/K7/VPYENCAYRUMEGYZ2CLD6WK
+[2025.04.17-01.09.59:979][153]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/VPYENCAYRUMEGYZ2CLD6WKC9E72F9E450EAC47EBF0218C40C14E2F.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/K7/VPYENCAYRUMEGYZ2CLD6WK.uasset'
+[2025.04.17-01.09.59:981][153]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/0I/OYN7ZB43VX6326WY5GCRCU
+[2025.04.17-01.09.59:982][153]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/OYN7ZB43VX6326WY5GCRCU7F32E4C5437A361636273AA5D6E3A65E.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/0I/OYN7ZB43VX6326WY5GCRCU.uasset'
+[2025.04.17-01.09.59:983][153]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/Y2/D4PUSTUFVV8AG71XL9NYEY
+[2025.04.17-01.09.59:983][153]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/D4PUSTUFVV8AG71XL9NYEY6C761CF14E583314BF417CA840B67243.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/Y2/D4PUSTUFVV8AG71XL9NYEY.uasset'
+[2025.04.17-01.09.59:986][153]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/3C/2SLA2W5MX8WPJO43XQDZUQ
+[2025.04.17-01.09.59:986][153]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/2SLA2W5MX8WPJO43XQDZUQ13361131436060206B29F0BAEBA68D07.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/3C/2SLA2W5MX8WPJO43XQDZUQ.uasset'
+[2025.04.17-01.09.59:989][153]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/WZ/MTCL3C3V174I8FIDJNYFUM
+[2025.04.17-01.09.59:989][153]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/MTCL3C3V174I8FIDJNYFUM462E1FD44C6C835D2A0E0DBBDAFD3B3F.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/WZ/MTCL3C3V174I8FIDJNYFUM.uasset'
+[2025.04.17-01.10.00:002][153]LogFileHelpers: InternalPromptForCheckoutAndSave took 190.559 ms (total: 4.15 sec)
+[2025.04.17-01.10.00:039][153]LogContentValidation: Display: Starting to validate 8 assets
+[2025.04.17-01.10.00:039][153]LogContentValidation: Enabled validators:
+[2025.04.17-01.10.00:039][153]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.17-01.10.00:039][153]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-01.10.00:039][153]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-01.10.00:039][153]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.17-01.10.00:039][153]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-01.10.00:039][153]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.17-01.10.00:039][153]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.04.17-01.10.16:916][964]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-01.10.16:978][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.04.17-01.10.17:061][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.04.17-01.10.17:103][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.04.17-01.10.17:116][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 198.627 ms (total: 4.35 sec)
+[2025.04.17-01.10.20:749][344]Cmd: DELETE
+[2025.04.17-01.10.20:749][344]Cmd: ACTOR DELETE
+[2025.04.17-01.10.20:751][344]LogEditorActor: Deleted Actor: BP_Movable_Box_C
+[2025.04.17-01.10.20:791][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.04.17-01.10.20:794][344]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2025.04.17-01.10.25:353][826]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-01.10.25:411][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.04.17-01.10.25:483][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.04.17-01.10.25:524][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.04.17-01.10.25:544][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 191.712 ms (total: 4.54 sec)
+[2025.04.17-01.10.43:680][876]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2842.023682
+[2025.04.17-01.10.43:732][882]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.17-01.10.43:732][882]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2842.067627, Update Interval: 312.187866
+[2025.04.17-01.11.07:547][530]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-01.11.07:627][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.04.17-01.11.07:668][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.04.17-01.11.07:701][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.04.17-01.11.07:704][530]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/Y2/D4PUSTUFVV8AG71XL9NYEY
+[2025.04.17-01.11.07:704][530]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/D4PUSTUFVV8AG71XL9NYEY41C2D87349BE3050D0ECC5BA23F5FEE6.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/Y2/D4PUSTUFVV8AG71XL9NYEY.uasset'
+[2025.04.17-01.11.07:717][530]LogFileHelpers: InternalPromptForCheckoutAndSave took 170.110 ms (total: 4.71 sec)
+[2025.04.17-01.11.07:752][530]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.17-01.11.07:752][530]LogContentValidation: Enabled validators:
+[2025.04.17-01.11.07:752][530]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.17-01.11.07:752][530]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-01.11.07:752][530]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-01.11.07:752][530]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.17-01.11.07:752][530]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-01.11.07:752][530]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.17-01.11.07:753][530]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.04.17-01.11.08:570][613]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-01.11.08:577][613]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.04.17-01.11.08:577][613]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.04.17-01.11.08:582][613]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 5.502 ms (total: 77.805 ms)
+[2025.04.17-01.11.08:582][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-01.11.08:616][613]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.17-01.11.08:626][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009510s)
+[2025.04.17-01.11.08:626][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.009554s)
+[2025.04.17-01.11.08:646][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.04.17-01.11.08:648][613]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.04.17-01.11.08:649][613]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.04.17-01.11.08:649][613]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.17-01.11.08:649][613]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.17-01.11.08:649][613]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.04.17-01.11.08:652][613]LogWorldPartition: Display: WorldPartition initialize took 3.368 ms (total: 338.948 ms)
+[2025.04.17-01.11.08:652][613]LogPlayLevel: PIE: World Init took: (0.004996s)
+[2025.04.17-01.11.08:653][613]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.04.17-01.11.08:653][613]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-01.11.08:653][613]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-01.11.08:653][613]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-01.11.08:653][613]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-01.11.08:653][613]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.17-01.11.08:653][613]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-01.11.08:653][613]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.17-01.11.08:653][613]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-01.11.08:653][613]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-01.11.08:653][613]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-01.11.08:653][613]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-01.11.08:656][613]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-01.11.08:695][613]LogAudioMixer: Display: Using Audio Hardware Device OMEN 27qs (NVIDIA High Definition Audio)
+[2025.04.17-01.11.08:695][613]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-01.11.08:695][613]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-01.11.08:695][613]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-01.11.08:696][613]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.04.17-01.11.08:696][613]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.04.17-01.11.08:698][613]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.04.17-01.11.08:698][613]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.04.17-01.11.08:698][613]LogInit: FAudioDevice initialized with ID 15.
+[2025.04.17-01.11.08:698][613]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonMap'.
+[2025.04.17-01.11.08:698][613]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.04.17-01.11.08:701][613]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.17-01.11.08:707][613]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.04.17-09.11.08
+[2025.04.17-01.11.08:707][613]LogWorld: Bringing up level for play took: 0.006047
+[2025.04.17-01.11.08:710][613]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.04.17-01.11.08:716][613]PIE: Server logged in
+[2025.04.17-01.11.08:717][613]PIE: Play in editor total start time 0.14 seconds.
+[2025.04.17-01.11.29:392][ 65]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=75.05 Y=458.52 Z=0.00 Location: X=1035.69 Y=1719.15 Z=391.93 Normal: X=-0.79 Y=-0.61 Z=-0.00 PenetrationDepth:0.296 Actor:BP_Movable_Box_C_UAID_50EBF6B199AFB35F02_2047218322 Component:Cube BoneName:None (0 other events since notify)
+[2025.04.17-01.11.30:397][184]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=388.46 Y=-275.78 Z=0.00 Location: X=1036.16 Y=1739.09 Z=393.24 Normal: X=-0.74 Y=0.67 Z=0.07 PenetrationDepth:7.106 Actor:BP_Movable_Box_C_UAID_50EBF6B199AFB35F02_2047218322 Component:Cube BoneName:None (66 other events since notify)
+[2025.04.17-01.11.42:446][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-01.11.42:446][601]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.04.17-01.11.42:446][601]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-01.11.42:448][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-01.11.42:448][601]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.04.17-01.11.42:452][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-01.11.42:458][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-01.11.42:479][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-01.11.42:480][601]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.04.17-01.11.42:480][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.04.17-01.11.42:483][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.04.17-01.11.42:490][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.04.17-01.11.42:548][602]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.04.17-01.11.56:103][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-01.11.56:165][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.04.17-01.11.56:187][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.04.17-01.11.56:220][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.04.17-01.11.56:223][ 28]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/J9/6FDYVPGD81KNT0GDPON5VW
+[2025.04.17-01.11.56:224][ 28]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/6FDYVPGD81KNT0GDPON5VW35B2A425455C9948F4F29A897CCF4644.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/J9/6FDYVPGD81KNT0GDPON5VW.uasset'
+[2025.04.17-01.11.56:227][ 28]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/Y2/D4PUSTUFVV8AG71XL9NYEY
+[2025.04.17-01.11.56:227][ 28]LogSavePackage: Moving '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Saved/D4PUSTUFVV8AG71XL9NYEY0EF7155E4B59EF187AE3F0885035B7C9.tmp' to '../../../../../../Users/30791/Documents/GitHub/WangYiLevel/WangYiLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/Y2/D4PUSTUFVV8AG71XL9NYEY.uasset'
+[2025.04.17-01.11.56:246][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.139 ms (total: 4.85 sec)
+[2025.04.17-01.11.56:279][ 28]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.17-01.11.56:280][ 28]LogContentValidation: Enabled validators:
+[2025.04.17-01.11.56:280][ 28]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.17-01.11.56:280][ 28]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-01.11.56:280][ 28]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-01.11.56:280][ 28]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.17-01.11.56:280][ 28]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-01.11.56:280][ 28]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.17-01.11.56:280][ 28]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.04.17-01.12.01:278][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-01.12.01:341][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.04.17-01.12.01:366][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.04.17-01.12.01:386][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.04.17-01.12.01:406][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.330 ms (total: 4.98 sec)
+[2025.04.17-01.12.07:934][294]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-01.12.08:031][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.04.17-01.12.08:068][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.04.17-01.12.08:107][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.04.17-01.12.08:125][294]LogFileHelpers: InternalPromptForCheckoutAndSave took 190.101 ms (total: 5.17 sec)
+[2025.04.17-01.12.10:355][529]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-01.12.10:421][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.04.17-01.12.10:494][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.04.17-01.12.10:555][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.04.17-01.12.10:575][529]LogFileHelpers: InternalPromptForCheckoutAndSave took 219.089 ms (total: 5.39 sec)
